@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
+                "file": "+ Start Here.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
+                "file": "+ Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
+                "file": "+ Start Here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md"
+                "file": "+ Start Here.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "42038dc91d70479e",
   "lastOpenFiles": [
+    "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
     "Spaces/Projects/Website/Blog/Science_Technical/A Call for Appreciation_A Philosophy Essay.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Other Voices in the Wilderness – Jane Goodall.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Reflecting on Overnight Stay at Boyd Hill Reserve.md",
@@ -174,7 +175,6 @@
     "Spaces/Projects/Website/Web Development/Dev Log/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
     "Spaces/Projects/Website/Web Development/Dev Log/06.17.24 Website Built Update.md",
     "Spaces/Projects/Website/Web Development/Dev Log/06.26.24 Website Update.md",
-    "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
     "+ Start Here.md",
     "Spaces/Projects/Website/00 Archive",
     "+ Inbox/White Ridge Booksleeve.md",
