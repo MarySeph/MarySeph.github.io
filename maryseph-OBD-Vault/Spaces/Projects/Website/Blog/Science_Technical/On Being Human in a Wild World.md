@@ -3,7 +3,7 @@ tags:
 	- effort
 	- project/nonfiction
 	- space/work
-alias: Reflection #4: On Being Human in a Wild World
+project: Website - Blog
 date: 2023-08-22
 UID: 202308221608
 ---

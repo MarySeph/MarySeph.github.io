@@ -3,6 +3,7 @@ tags:
   - effort
   - project/nonfiction
   - space/work
+project: Website - Digital Garden
 date: 2024-06-14
 UID: 202406141606
 ---

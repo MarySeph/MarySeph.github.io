@@ -3,7 +3,7 @@ tags:
 	- effort
 	- project/nonfiction
 	- space/work
-alias: Essay #1: Going Deep
+project: Website - Blog
 date: 2023-08-22
 UID:  202308221608
 ---

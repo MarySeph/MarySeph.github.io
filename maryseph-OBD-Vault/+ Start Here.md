@@ -1,1 +1,1 @@
-TBD
+Welcome to Mary Seph's Website. You can find academic essays 

@@ -3,6 +3,7 @@ tags:
   - effort
   - project/nonfiction
   - space/work
+project: Website - Web Dev Log
 date: 2024-06-17
 UID: 202406171806
 ---

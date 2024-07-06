@@ -2,7 +2,8 @@
 tags: 
 	- effort
 	- output/post
-	- project/nonfiction 
+	- project/nonfiction
+project: Website - Self-care
 UID: 202206301344
 ---
 

@@ -3,6 +3,7 @@ tags:
 	- effort
 	- project/nonfiction
 	- space/work
+project: Website - Blog
 date: 2023-08-22
 UID:  202308221608
 ---

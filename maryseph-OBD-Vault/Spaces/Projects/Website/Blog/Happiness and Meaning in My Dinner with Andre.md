@@ -3,6 +3,7 @@ tags:
   - effort
   - project/nonfiction
   - space/work
+project: Website - Philosophy_Ethics
 date: 2024-03-30
 UID: 202403301303
 ---

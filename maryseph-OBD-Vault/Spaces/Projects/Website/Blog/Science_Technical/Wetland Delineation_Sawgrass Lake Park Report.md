@@ -1,8 +1,9 @@
 ---
 tags:
-  - x/meta
-areas: college
-project: SawgrassLakeReport
+  - effort
+  - project/non-fiction
+  - space/work
+project: Website - Blog
 date: 2023-11-07
 UID: 202311071234
 ---

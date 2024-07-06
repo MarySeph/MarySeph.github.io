@@ -3,6 +3,7 @@ tags:
 	- effort
 	- output/paper
 	- project/nonfiction
+project: Website - Blog
 date: 2021-11-27 16:15
 UID: 202111271615
 ---

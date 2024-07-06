@@ -3,6 +3,7 @@ tags:
   - effort
   - project/non-fiction
   - space/work
+project: Website - Blog
 areas: college
 date: 2023-11-26
 UID: 202311260829

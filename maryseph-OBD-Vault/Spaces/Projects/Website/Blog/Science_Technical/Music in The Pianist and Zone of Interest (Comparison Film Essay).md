@@ -3,8 +3,7 @@ tags:
   - effort
   - project/nonfiction
   - space/work
-areas: college
-project: IDH3600_Confronting the Holocaust_Film Essay
+project: Website - Blog
 date: 2024-06-06
 UID: 202406061906
 ---

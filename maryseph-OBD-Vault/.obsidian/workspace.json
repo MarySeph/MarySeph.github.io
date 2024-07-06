@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d77056ea79702b05",
+        "id": "d6b1a8317bb13a20",
         "type": "tabs",
         "children": [
           {
-            "id": "ae388a9352abd280",
+            "id": "42038dc91d70479e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md"
+                "file": "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md"
               }
             }
           },
@@ -150,49 +150,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae388a9352abd280",
+  "active": "42038dc91d70479e",
   "lastOpenFiles": [
+    "Spaces/Projects/Website/Blog/Science_Technical/A Call for Appreciation_A Philosophy Essay.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Other Voices in the Wilderness – Jane Goodall.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Reflecting on Overnight Stay at Boyd Hill Reserve.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Reflecting on my Ecological Consciousness.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Magnetoreception in Birds_A Comparison Essay of Scientific Literature Sources.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/A Call for Kindness_A Philosophy Essay.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Sensitive Men in an Insensitive World_Psychoanalyzing Key Figures of American Nature Writing.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/On Being Human in a Wild World.md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Music in The Pianist and Zone of Interest (Comparison Film Essay).md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Wetland Delineation_Sawgrass Lake Park Report.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Environmental Policy Analysis_Resource Conservation and Recovery Act (RCRA).md",
+    "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+    "Spaces/Projects/Website/Blog/Thinking Critically About Nozick's Argument on Permanence.md",
+    "Spaces/Projects/Website/Blog/Thinking Critically about the Hedonist Theory of Well-being.md",
+    "Spaces/Projects/Website/Blog/Aristoteles on Happiness (Nicomacean Ethics).md",
+    "Spaces/Projects/Website/Blog/HSP Care Kit_ Making a Personal Info Guide.md",
+    "Spaces/Projects/Website/Blog/Happiness and Meaning in My Dinner with Andre.md",
+    "Spaces/Projects/Website/Mind Garden/Reflecting on the Honors Study Abroad Program, Confronting the Holocaust.md",
+    "Spaces/Projects/Website/Mind Garden/Arguing Against Recycling.md",
+    "Spaces/Projects/Website/Web Development/Dev Log/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
+    "Spaces/Projects/Website/Web Development/Dev Log/06.17.24 Website Built Update.md",
+    "Spaces/Projects/Website/Web Development/Dev Log/06.26.24 Website Update.md",
+    "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
     "+ Start Here.md",
+    "Spaces/Projects/Website/00 Archive",
+    "+ Inbox/White Ridge Booksleeve.md",
+    "+ Inbox/White Doilies.md",
     "Cards/Files/Screenshot 2024-07-03 17.14.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 19.54.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 20.12.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 20.50.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 21.52.00.PNG",
-    "+ Inbox/New Ideas/07.01.24 Website Build Update.md",
-    "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
-    "Spaces/Projects/Website/Blog/Thinking Critically About Nozick's Argument on Permanence.md",
-    "Spaces/Projects/Website/Blog/Thinking Critically about the Hedonist Theory of Well-being.md",
-    "Spaces/Projects/Website/Blog/Happiness and Meaning in My Dinner with Andre.md",
-    "Spaces/Projects/Website/Blog/Aristoteles on Happiness (Nicomacean Ethics).md",
-    "+ Inbox/New Files/IDH3600 - Happiness & The Meaning of Life - 1st Reflection Paper - First Half.md",
-    "Spaces/Projects/Website/Blog/Science_Technical/Environmental Field Methods Research Proposal.md",
-    "+ Inbox/New Files/EVR4051 - Research Proposal Outline.md",
-    "Spaces/Projects/Website/Blog/Science_Technical/A Call for Appreciation_A Philosophy Essay.md",
-    "+ Inbox/New Ideas/20230716_EVR2861_War on the EPA Video Discussion.md",
-    "Spaces/Projects/Website/Blog/HSP Care Kit_ Making a Personal Info Guide.md",
-    "Spaces/Projects/Website/Blog/Science_Technical/Other Voices in the Wilderness – Jane Goodall.md",
-    "Spaces/Projects/Website/Blog/Science_Technical/Reflecting on Overnight Stay at Boyd Hill Reserve.md",
-    "+ Inbox/New Ideas/GIS3006 - Portfolio Draft.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/06.26.24 Website Update.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/06.17.24 Website Built Update.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
-    "Atlas/Scopes/Cooling pad 🧊.md",
-    "Atlas/Scopes/Files to Cleanup.md",
-    "Atlas/Files to Cleanup.md",
     "Atlas/Scopes",
     "Atlas/New folder",
-    "Atlas/Cooling pad 🧊.md",
-    "+ Inbox/New Ideas/White Ridge Booksleeve.md",
-    "+ Inbox/New Ideas/White Doilies.md",
-    "+ Inbox/New Ideas",
+    "+ Inbox/New IFiles",
     "+ Inbox",
     "Atlas/MOCs",
     "Atlas",
     "Spaces/Projects",
     "Spaces",
     "Cards/Files",
-    "Cards",
     "Spaces/Projects/Untitled.canvas",
     "Cards/Files/Web-layout-sketch-2022-08-05-2214.excalidraw.svg",
     "Cards/Files/Web-layout-Sketch-2022-08-05-2214.excalidraw.png",

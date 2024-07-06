@@ -4,6 +4,7 @@ tags:
 	- output/paper
 	- project/nonfiction
 	- spac/work
+project: Website - Blog
 date: 2022-09-27 16:24
 UID: 202209271624
 ---
