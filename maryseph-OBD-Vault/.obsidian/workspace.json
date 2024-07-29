@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b1a8317bb13a20",
+        "id": "dc22e25616fc4360",
         "type": "tabs",
         "children": [
           {
-            "id": "42038dc91d70479e",
+            "id": "92cd5cd8ce565f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Start Here.md",
+                "file": "+ Documentation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 321.5
   },
   "right": {
     "id": "db61d8e194792a88",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Start Here.md",
+                "file": "+ Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Start Here.md",
+                "file": "+ Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Start Here.md"
+                "file": "+ Documentation.md"
               }
             }
           },
@@ -150,9 +150,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42038dc91d70479e",
+  "active": "92cd5cd8ce565f9e",
   "lastOpenFiles": [
+    "About.md",
+    "+ Start Here.md",
+    "Spaces/Projects/Website/Web Development/Cohost Updates/07.03.24 Website Build Update.md",
+    "Cards/Files/Screenshot 2024-07-04 19.30.00.PNG",
+    "Cards/Files/Screenshot 2024-07-06 18.41.00.PNG",
+    "Cards/Files/Screenshot 2024-07-06 18.46.00.PNG",
+    "Cards/Files/Screenshot 2024-07-06 18.54.00.PNG",
+    "Spaces/Projects/Website/Web Development/Cohost Updates/06.17.24 Website Built Update.md",
+    "Spaces/Projects/Website/Web Development/Cohost Updates/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
+    "Spaces/Projects/Website/Web Development/Cohost Updates/06.26.24 Website Update.md",
+    "Spaces/Projects/Website/Web Development/Cohost Updates/07.01.24 Website Build Update.md",
+    "Atlas/Scopes/Cooling pad 🧊.md",
     "Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
+    "+ Documentation.md",
     "Spaces/Projects/Website/Blog/Science_Technical/A Call for Appreciation_A Philosophy Essay.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Other Voices in the Wilderness – Jane Goodall.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Reflecting on Overnight Stay at Boyd Hill Reserve.md",
@@ -168,17 +181,7 @@
     "Spaces/Projects/Website/Blog/Thinking Critically About Nozick's Argument on Permanence.md",
     "Spaces/Projects/Website/Blog/Thinking Critically about the Hedonist Theory of Well-being.md",
     "Spaces/Projects/Website/Blog/Aristoteles on Happiness (Nicomacean Ethics).md",
-    "Spaces/Projects/Website/Blog/HSP Care Kit_ Making a Personal Info Guide.md",
-    "Spaces/Projects/Website/Blog/Happiness and Meaning in My Dinner with Andre.md",
-    "Spaces/Projects/Website/Mind Garden/Reflecting on the Honors Study Abroad Program, Confronting the Holocaust.md",
-    "Spaces/Projects/Website/Mind Garden/Arguing Against Recycling.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/06.17.24 Website Built Update.md",
-    "Spaces/Projects/Website/Web Development/Dev Log/06.26.24 Website Update.md",
-    "+ Start Here.md",
     "Spaces/Projects/Website/00 Archive",
-    "+ Inbox/White Ridge Booksleeve.md",
-    "+ Inbox/White Doilies.md",
     "Cards/Files/Screenshot 2024-07-03 17.14.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 19.54.00.PNG",
     "Cards/Files/Screenshot 2024-07-03 20.12.00.PNG",
@@ -194,10 +197,6 @@
     "Spaces",
     "Cards/Files",
     "Spaces/Projects/Untitled.canvas",
-    "Cards/Files/Web-layout-sketch-2022-08-05-2214.excalidraw.svg",
-    "Cards/Files/Web-layout-Sketch-2022-08-05-2214.excalidraw.png",
-    "Cards/Files/urban-trail-map-720-405-v2.jpg",
-    "Cards/Files/tumblr_28c1a76609c61c1c8219ce26bee039a5_18fb93d3_500.jpg",
-    "Cards/Files/Story_HomeNote_byMarySeph-v2.0-2022-08-15-1446.png"
+    "Cards/Files/Web-layout-sketch-2022-08-05-2214.excalidraw.svg"
   ]
 }

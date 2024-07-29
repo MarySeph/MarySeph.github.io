@@ -1,9 +1,7 @@
 ---
 tags:
   - effort
-  - project/nonfiction
-  - space/work
-project: Website - Web Dev Log
+  - Cohost-Updates
 date: 2024-06-17
 UID: 202406171806
 ---
