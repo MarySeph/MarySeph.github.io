@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "maryseph-OBD-Vault/+ Documentation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "+ Documentation"
             }
           }
         ],
@@ -41,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,7 +60,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -79,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "maryseph-OBD-Vault/+ Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +93,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for + Documentation"
             }
           },
           {
@@ -96,10 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+                "file": "maryseph-OBD-Vault/+ Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from + Documentation"
             }
           },
           {
@@ -108,8 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md"
-              }
+                "file": "maryseph-OBD-Vault/+ Documentation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of + Documentation"
             }
           },
           {
@@ -120,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,7 +146,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -147,11 +163,13 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "ae388a9352abd280",
   "lastOpenFiles": [
+    "maryseph-OBD-Vault/+ Start Here.md",
     "Spaces/Projects/Website/Blog/Science_Technical/Environmental Policy Analysis_Resource Conservation and Recovery Act (RCRA).md",
     "+ Start Here.md",
     "Cards/Files/Screenshot 2024-07-03 17.14.00.PNG",
@@ -184,7 +202,6 @@
     "Atlas/New folder",
     "Atlas/Cooling pad 🧊.md",
     "+ Inbox/New Ideas/White Ridge Booksleeve.md",
-    "+ Inbox/New Ideas/White Doilies.md",
     "+ Inbox/New Ideas",
     "+ Inbox",
     "Atlas/MOCs",
