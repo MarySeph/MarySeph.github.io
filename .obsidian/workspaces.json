@@ -1,0 +1,152 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "59adb23126b3ee3b",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a198150b9a9138b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b53c60433feadb93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ Dashboard.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14696430b1d192fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "57b895ed88a3a30c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a6b7001ecc7693f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "703675be441c8a97",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "#",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 434.50418853759766,
+        "collapsed": true
+      },
+      "right": {
+        "id": "db61d8e194792a88",
+        "type": "split",
+        "children": [
+          {
+            "id": "882015ed9cfaefce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d20b77575396789f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "+ Dashboard.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6c17410a9fb1892d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "+ Dashboard.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8a7d0186fc069a39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "+ Dashboard.md"
+                  }
+                }
+              },
+              {
+                "id": "c304285ef283cbda",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "b53c60433feadb93",
+      "mtime": "2024-03-30T14:40:30-04:00"
+    }
+  },
+  "active": "Website Updates"
+}

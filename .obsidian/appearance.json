@@ -1,0 +1,10 @@
+{
+  "theme": "system",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Inter,Helvetica",
+  "textFontFamily": "Verdana",
+  "monospaceFontFamily": "Monaco",
+  "baseFontSize": 15,
+  "accentColor": "",
+  "showViewHeader": true
+}

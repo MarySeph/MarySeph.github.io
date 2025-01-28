@@ -1,0 +1,2 @@
+## December 27th, 2024
+Last update of the year! Hopefully. I have been working on this site almost non-stop. The biggest changes can be easily found in the nav and footer. For starters, I made about pages of the webmaster and the site! The latter leads to the [[UpdateArchive]] and a [[Layouts]] page. Because of those changes, [[SitePlans|Dev Log: Neocities Site]] only has site plans. Kalechips and seafare's sites were a great reference for these changes. Many thanks. Last but not least, the [[2024XmasPresents]] crochet projects are complete.

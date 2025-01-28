@@ -1,0 +1,22 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Sources",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import Reference",
+      "outputPathTemplate": "Sources/{{citekey}}.md",
+      "imageOutputPathTemplate": "Sources/Images/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Cards/Templates/Template, Metadata 2.1 - Research Bibliography.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

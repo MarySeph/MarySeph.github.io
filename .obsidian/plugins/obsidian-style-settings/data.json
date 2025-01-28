@@ -1,0 +1,18 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "things-style@@tag-font-color-l": "#F7F7F7",
+  "things-style@@tag-background-color-l": "#007DE4",
+  "things-style@@default-font-color": false,
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": false,
+  "sanctum@@light-mode-contrast-mode": "sanctum-contrast-light",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-d": "165, 119, 218",
+  "sanctum@@no-sanctum-icons": true,
+  "things-style@@link-decoration": "None",
+  "things-style@@active-line": true,
+  "blue-topaz-theme@@layout-style-options": "asymmetric-split-left",
+  "blue-topaz-theme@@search-bar-style-option": "bt-search-bar-bottom",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar"
+}
