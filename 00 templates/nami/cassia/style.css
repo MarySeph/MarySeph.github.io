@@ -1,0 +1,233 @@
+/* these are the main colors and header image
+   replace them with anything you want! */
+:root {
+    --header-bg: url('images/header.png');
+    --accent-color: #DC7891;
+    --link-color: #DC7891;
+    --bg-color: #EFC9BE;
+    --bg-color2: #865A54;
+    --text-color: #4E1E1B;
+    --favorite-color: #FFE5E3;
+    /* you can change the stripe colors easily from here */
+    --stripe-color: #EFC9BE;
+    --stripe-color2: #DFAD9F;
+}
+/* you can get hex codes from sites like this:
+   https://palettes.shecodes.io/
+   i just looked up "css color templates" to find that link! */
+
+/* this applies to all the content */
+* {
+    color: var(--text-color);
+/* change the font here, it's set up to all use the same one */
+    font-family: monospace;
+    border-radius: 1em;
+}
+/* this is for when you select text on the page */
+::selection {
+    background: var(--accent-color);
+    color: var(--bg-color);
+}
+
+body {
+    background-color: var(--bg-color2);
+    margin: 0;
+}
+/* i think having better line spacing helps text to be more readable, but you can remove it if you want */
+p {line-height: 1.5em;}
+
+header {
+    background-color: var(--accent-color);
+/* you can add the image url in :root (at the top) if you want */
+    background: var(--header-bg);
+    background-size: 100%;
+    background-position: center;
+/* change the minimum height if you want it to take up more/less space */
+    min-height: 200px;
+/* can also limit the size of the header if you don't want to fill up the top. i recommend at least 800px tho! */
+    /*max-width: 980px;*/
+    margin: 0 auto;
+    border-top: 4px solid var(--text-color);
+    border-bottom: 4px solid var(--text-color);
+/* i have a default border-radius set, but i didn't want rounded corners on this element */
+    border-radius: 0;
+}
+
+/* this is your site title displayed at the top of the page */
+header > h1 {
+    margin: 20px auto;
+    border-radius: .3em;
+    max-width: 900px;
+    padding: 12px;
+    font-size: 4em;
+/* you can change the text-align to center or right if you want it placed differently */
+    text-align: center;
+    background-color: var(--bg-color);
+    border: 2px solid var(--text-color);
+    text-shadow: var(--bg-color2) 1px 1px 3px;
+}
+
+nav {
+    padding: 1em;
+    margin: 1em;
+    font-weight: bold;
+}
+
+nav > ul {
+    max-width: 960px;
+    margin: auto;
+    line-height: 3rem;
+/* this line takes away the dot in front of the list items */
+    list-style-type: none;
+/* list items have default padding but we don't need it for these */
+    padding-left: 0;
+/* and this spaces out the buttons so they're not touching */
+    justify-content: space-evenly;
+}
+nav li {
+    text-align: center;
+}
+nav li > a {
+    background-color: var(--favorite-color);
+    box-shadow: var(--accent-color) 4px 4px;
+    padding: .5em 3em;
+/* this takes away the link underline */
+    text-decoration: none;
+}
+nav li > a:hover {
+    box-shadow: var(--text-color) 4px 4px;
+}
+
+a {
+    color: var(--link-color);
+    border-radius: .3em;
+    text-shadow: var(--bg-color) 1px 1px 2px;
+    font-weight: bold;
+    transition: background-color 400ms ease-out;
+}
+a:visited {
+    color: var(--text-color);
+}
+a:hover {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+/* you can change this to anything you want :) */
+ul { list-style-type: "❤︎ "; }
+
+#sidebar {
+    /* made the stripe bg with a generator:
+    https://stripesgenerator.com/
+     */
+    background-image: linear-gradient(45deg, var(--stripe-color) 25%, var(--stripe-color2) 25%, var(--stripe-color2) 50%, var(--stripe-color) 50%, var(--stripe-color) 75%, var(--stripe-color2) 75%, var(--stripe-color2) 100%);
+    background-size: 65.05px 65.05px;
+    min-width: 220px;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid var(--text-color);
+    box-shadow: var(--accent-color) 4px 4px;
+}
+
+#avatar {
+    margin: .5em auto;
+    box-shadow: var(--accent-color) 4px 4px;
+/* image size is 160px so i made its container a little bigger to fit the borders */
+    max-width: 164px;
+    max-height: 164px;
+    border-radius: 1.5em;
+}
+#avatar img {
+    background: var(--lighter-color);
+    max-width: 160px;
+    border: 2px solid var(--text-color);
+    border-radius: 1.5em;
+}
+
+#bio {
+    margin: 1em;
+    background: var(--favorite-color);
+    border: 2px solid var(--text-color);
+    box-shadow: var(--accent-color) 4px 4px;
+    text-shadow: var(--bg-color2) 0 0 2px;
+}
+#bio p { margin: 1em; }
+
+#content {
+    display: flex;
+    max-width: 960px;
+    margin: auto;
+}
+
+main {
+    background-color: var(--favorite-color);
+    padding: 1em 2em;
+    margin: 1em;
+    border: 2px solid var(--text-color);
+    box-shadow: var(--accent-color) 4px 4px;
+    text-shadow: var(--bg-color2) 1px 1px 3px;
+}
+
+main > h1,
+main > h2,
+main > h3 {
+    background-color: var(--bg-color);
+    border-radius: .4em;
+    padding: .2em .5em;
+    text-shadow: var(--bg-color2) 1px 1px 3px;
+}
+
+/* a class for centering text and images */
+.center { text-align: center; }
+
+footer {
+    background-color: var(--bg-color);
+    text-shadow: var(--bg-color2) 1px 1px 3px;
+    text-align: center;
+    font-size: small;
+    padding: 1em;
+    margin: 1em auto;
+    max-width: 960px;
+}
+
+/* these are the mobile styles! */
+@media only screen and (max-width: 800px) {
+    #content {
+        flex-wrap: wrap;
+    }
+    #sidebar {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        border: none;
+    }
+    header {min-height: 160px;}
+    header > h1 { 
+        font-size: 3em;
+        margin: .4em;
+    }
+    nav > ul {
+    /* this stuff makes it wrap around on mobile */
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    #avatar {margin: 0 1em;}
+    #bio {width: 50%;}
+    main {margin: 0 1em;}
+    #sidebar ul {   
+        margin: 0 1em;
+        display: flex;
+        flex-wrap: wrap;
+        line-height: 2em;
+    }
+    #sidebar li {
+        padding-left: 0;
+        margin: .3em 1em;
+    }
+    footer {
+        margin: 1em;
+    }
+}
