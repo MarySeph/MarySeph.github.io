@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "59adb23126b3ee3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77056ea79702b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae388a9352abd280",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14696430b1d192fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b895ed88a3a30c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6b7001ecc7693f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "703675be441c8a97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:Kirishima Keima",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "db61d8e194792a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "882015ed9cfaefce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20b77575396789f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "maryseph-OBD-Vault/+ Documentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for + Documentation"
+            }
+          },
+          {
+            "id": "6c17410a9fb1892d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "maryseph-OBD-Vault/+ Documentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from + Documentation"
+            }
+          },
+          {
+            "id": "8a7d0186fc069a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "maryseph-OBD-Vault/+ Documentation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of + Documentation"
+            }
+          },
+          {
+            "id": "c304285ef283cbda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdfeecbc17dfdff0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "4a6b7001ecc7693f",
+  "lastOpenFiles": [
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/A Call for Appreciation_A Philosophy Essay.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates/Welcome to Cohost_Introduction, Goals, and Game Plan.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates/07.03.24 Website Build Update.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates/07.01.24 Website Build Update.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates/06.26.24 Website Update.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates/06.17.24 Website Built Update.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Wetland Delineation_Sawgrass Lake Park Report.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Sensitive Men in an Insensitive World_Psychoanalyzing Key Figures of American Nature Writing.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Reflecting on Overnight Stay at Boyd Hill Reserve.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Reflecting on my Ecological Consciousness.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Other Voices in the Wilderness – Jane Goodall.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/On Being Human in a Wild World.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Nitrate Concentrations in Bayboro Harbor.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Music in The Pianist and Zone of Interest (Comparison Film Essay).md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Magnetoreception in Birds_A Comparison Essay of Scientific Literature Sources.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Environmental Policy Analysis_Resource Conservation and Recovery Act (RCRA).md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/Environmental Field Methods Research Proposal.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical/A Call for Kindness_A Philosophy Essay.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/My First Digital Garden, a Web Development Project.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development/Cohost Updates",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Thinking Critically about the Hedonist Theory of Well-being.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Thinking Critically About Nozick's Argument on Permanence.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Science_Technical",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/HSP Care Kit_ Making a Personal Info Guide.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Happiness and Meaning in My Dinner with Andre.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog/Aristoteles on Happiness (Nicomacean Ethics).md",
+    "TWmaryseph-md/Spaces/Projects/Website/Mind Garden/Reflecting on the Honors Study Abroad Program, Confronting the Holocaust.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Mind Garden/Arguing Against Recycling.md",
+    "TWmaryseph-md/Spaces/Projects/Website/Web Development",
+    "TWmaryseph-md/Spaces/Projects/Website/Blog",
+    "TWmaryseph-md/Spaces/Projects/Website/Mind Garden",
+    "TWmaryseph-md/Spaces/Projects/Website",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-06 18.54.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-06 18.46.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-06 18.41.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-03 21.52.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-04 19.30.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-03 20.50.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-03 20.12.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-03 19.54.00.PNG",
+    "TWmaryseph-md/Cards/Files/Screenshot 2024-07-03 17.14.00.PNG",
+    "TWmaryseph-md/Spaces/Projects",
+    "TWmaryseph-md/Cards/Files",
+    "TWmaryseph-md/Atlas/Scopes",
+    "TWmaryseph-md/Spaces",
+    "01 projects/TWmaryseph-md/Cards/Files/Screenshot 2024-07-06 18.54.00.PNG",
+    "Spaces/Projects/Untitled.canvas"
+  ]
+}

@@ -1,3 +1,4 @@
-This branch contains only the .md files of this project.
+Previous version of this website was attempted to be made with TiddlyWiki and drafted with markdown.
 
-To be viewed and edited through [Obsidian](https://obsidian.md/).
+> This branch contains only the .md files of this project.
+> To be viewed and edited through [Obsidian](https://obsidian.md/).
