@@ -1,16 +1,27 @@
 ![[Nav#^nav]]
 
-# Crafts
+# Site Map
 
-## Web Dev
-> [[WebDevCommonplace]]
+A simplified map of this site.
 
-- [[SitePlans|Dev Log: Neocities Site]]
+## [[+ Home]]
+
+## [[Now]]
+
+
+
+## [[Blog]]
+
+## [[Garden]]
+
+
+## [[Crafts]]
+
+### WebDev
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
 - [Web Dev Lisfauxgraphy]()
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
-
-## Crochet
+### Crochet
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]
 - [[Crochet Bath Set Collection (WIP)]]
@@ -18,8 +29,21 @@
 - [[2024XmasPresents |2024 Scrappy Yarn Christmas Presents]]
 - [[LaundryHamper (WIP)]] 
 - [[GrannyHexagonBlanket (WIP)|Stash-busting Granny Hexagon...Blanket? (WIP)]] 
-
-## Misc.
+### Misc.
 - [[Organizing my Buttons Stash (WIP)]] 
+
+## [Guestbook](https://maryseph.atabook.org/)
+
+## [[Links]]
+- [[Nature-inspiredArt]]
+
+## [[About]]
+- [[Site Meta]]
+- [[Layouts]]
+- [[Changelog]]
+- [[Credits]]
+- [[Sitemap]]
+- [[SitePlans]]
+- [[Uses]]
 
 ![[Footer#^footer]]

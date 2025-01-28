@@ -4,12 +4,16 @@
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Frankenstein, or the Modern Prometheus.
-**Watching**: Umineko no Naku Koro Ni Episode 8.
-**Writing**: What Lies Beyond Love and Hate (a historical fiction, omegaverse fic).
-**Crafting**: [[Slouchy Robin Beanie]], [[LaundryHamper (WIP)]].
-**Developing**: Self-care resources, site manifesto.
+**Writing**: *Check back later*.
+**Crafting**: [[LaundryHamper (WIP)]].
+**Developing**: *Check back later*.
 **Learning**: Front-end web development.
-**Feeling**: Comfortable.
+**Feeling**: Confident.
+
+## January 27th, 2025
+Whoop whoop, what a strange place to be! The home of this had been neocities for the past four months. While I'm writing on the markdown version, I'm updating this site, from [Github Pages](https://maryseph.github.io/)! Not gonna lie, it feels much more lonely. But as I explained [[Social Media Presence Cleanup|here]], one of the goals from starting my own website was to make it slightly more professional. The kind of website I can share with people in real life and is tied to my... government identity I guess, for lack of a better term.
+
+To summarize that behemoth of a page, what's going to happen from now on is that this site will continue to be hosted on GitHub Pages. That means the site in Neocities will not be updated. That's all you need to know. Welcome to MY site! A slightly less self-indulgent than the previous one. Look forward to big-brained arguments. I'm going full PKM with this one and there's no turn back.
 
 ## January 5th, 2025
 Wow, WOW! We actually made it. The celebration was so exciting. Nothing to complain about. I managed to write things I wanted to leave behind and share this opportunity with my family and burned all those papers with the mannequins on New Year's Day (the law-abiding pyromaniac in me was ecstatic). The food was delicious. I received a lovely dotted notebook. Despite having a severe toothache, I feel light.

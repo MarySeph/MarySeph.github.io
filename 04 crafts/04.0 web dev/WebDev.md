@@ -9,6 +9,5 @@ other web development projects.
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
 - [Web Dev Lisfauxgraphy]()
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
-- [[Social Media Presence Cleanup]]
 
 ![[Footer#^footer]]

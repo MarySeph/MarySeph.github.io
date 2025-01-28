@@ -1,5 +1,5 @@
 [[Sitemap| sitemap]] | [[(archived) Accessibility| accessibility statement]] | [guestbook](https://maryseph.atabook.org/) | [neocities profile](https://neocities.org/site/maryseph) | [[Credits|credits]]
-[[Meta|Mary's Creative Corner]] © 2024 [[About|maryseph]] ^footer
+[[Site Meta|Mary's Creative Corner]] © 2024 [[About|maryseph]] ^footer
 
 <p align="center">
 <a href="obsidian://open?vault=Marys-Creative-Corner&file=Home">Home</a> |

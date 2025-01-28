@@ -1,1 +1,1 @@
-[[+ Home]] | [[Now]] | [[WebDev]] | [[Writing]] | [[Crafts]] | [[Links]] ^nav
+[[+ Home]] | [[Now]] | [[Blog]] | [[Garden]] | [[Crafts]] | [[Links]] ^nav

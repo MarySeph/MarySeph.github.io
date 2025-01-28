@@ -1,0 +1,1 @@
+**2025.01.28** - Transferred whole site to new repo Github. MarySeph is now hosted in Github Pages.

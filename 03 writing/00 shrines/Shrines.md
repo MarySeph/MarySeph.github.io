@@ -1,2 +1,0 @@
-# Shrines
-- [[Simoun]]

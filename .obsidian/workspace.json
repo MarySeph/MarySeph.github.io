@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31e5c3fdc4483878",
+            "id": "20d78e17dccff6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/Social Media Presence Cleanup.md",
+                "file": "01 now/Now.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Social Media Presence Cleanup"
-            }
-          },
-          {
-            "id": "a3ab057f9790f0bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 crafts/Crochet Bath Set Collection (WIP).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Crochet Bath Set Collection (WIP)"
-            }
-          },
-          {
-            "id": "3456f5fa2a6d89d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 crafts/LaundryHamper (WIP).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "LaundryHamper (WIP)"
+              "title": "Now"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -156,9 +125,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01 now/Now.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Now"
             }
           }
         ],
@@ -166,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,19 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ab057f9790f0bf",
+  "active": "20d78e17dccff6e1",
   "lastOpenFiles": [
-    "04 crafts/LaundryHamper (WIP).md",
-    "04 crafts/Crochet Bath Set Collection (WIP).md",
-    "02 web dev/Social Media Presence Cleanup.md",
-    "04 crafts/Crafts.md",
-    "04 crafts/Slouchy Robin Beanie.md",
-    "02 web dev/WebDev.md",
-    "Uses.md",
     "+ Home.md",
+    "04 crafts/04.0 web dev/maryseph-site/Sitemap.md",
+    "04 crafts/04.0 web dev/maryseph-site/About.md",
+    "04 crafts/04.0 web dev/maryseph-site/SitePlans.md",
+    "04 crafts/Crafts.md",
+    "04 crafts/04.0 web dev/maryseph-site/Site Meta.md",
+    "04 crafts/04.0 web dev/maryseph-site/Site Manifesto.md",
+    "04 crafts/04.0 web dev/maryseph-site/Layouts.md",
+    "04 crafts/04.0 web dev/maryseph-site/Credits.md",
+    "04 crafts/04.0 web dev/maryseph-site/Changelog.md",
     "01 now/Now.md",
-    "04 crafts/Granny Stitch String Bag.md",
-    "04 crafts/Orange Slice Coasters.md",
+    "Nav.md",
+    "04 crafts/04.1 crochet",
+    "04 crafts/04.0 web dev/WebDev.md",
+    "images/blog_not_china.gif",
+    "Footer.md",
+    "02 blog/Social Media Presence Cleanup.md",
+    "03 garden",
+    "+ archives/UpdateArchive.md",
+    "+ archives/2024 Site Updates.md",
+    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
+    "06 links/Links.md",
+    "04 crafts/04.1 crochet/LaundryHamper (WIP).md",
+    "04 crafts/04.1 crochet/Crochet Bath Set Collection (WIP).md",
+    "04 crafts/04.1 crochet/Slouchy Robin Beanie.md",
+    "04 crafts/04.0 web dev/maryseph-site/Uses.md",
+    "04 crafts/04.1 crochet/Granny Stitch String Bag.md",
+    "04 crafts/04.1 crochet/Orange Slice Coasters.md",
     "images/1737224878295.jpg",
     "00 templates/Template, Craft Project.md",
     "images/P4eo1Gw - Imgur.png",
@@ -198,32 +185,15 @@
     "images/F10c885 - Imgur.png",
     "images/EqNXchu - Imgur.png",
     "images/1734464982681.jpg",
-    "Site Manifesto.md",
-    "04 crafts/2024XmasPresents.md",
-    "02 web dev/neocities/SitePlans.md",
-    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
-    "06 links/Links.md",
-    "03 writing/Writing.md",
-    "02 web dev/WebDevCommonplace.md",
-    "Nav.md",
-    "Credits.md",
-    "Meta.md",
-    "Layouts.md",
-    "02 web dev/neocities/SiteUpdates.md",
-    "().md",
     "images/button (4).gif",
     "images/button (5).gif",
-    "images/button (2).gif",
     "images/45-degree-fabric--light--1920x1080.png.crdownload",
     "images/45-degree-fabric-light.png.crdownload",
-    "03 writing/00 shrines/Simoun.md",
     "03 writing/00 shrines",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
     "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png.crdownload",
     "+ archives",
-    "00 templates",
-    "02 web dev/tw-site",
-    "tw-site.html"
+    "00 templates"
   ]
 }

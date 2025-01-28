@@ -1,15 +1,17 @@
 ![[Nav#^nav]]
 
-# Meta
-Table of Contents: [[Meta#Accessibility]] / [[Meta#Color schemes]]
+# Site Meta
+Table of Contents: [[Site Meta#Accessibility]] / [[Site Meta#Color schemes]]
 
-> [[UpdateArchive]] | [[Layouts]]
+> [[UpdateArchive]] | [[Layouts]] | [[SitePlans]] | [[Uses]] | [[Changelog]]
 
 This site is being developed with [Obsidian](https://obsidian.md/)-flavored markdown then converted to HTML in VSCode before being uploaded to Neocities.
 
 The site's [source code](https://github.com/MarySeph/Marys-Creative-Corner) and a [page template](https://github.com/MarySeph/Marys-Creative-Corner/blob/main/template.htm) are available on Github for download.
 
 Copyright statement of this site is pending.
+
+Read the annoyingly long, overly-dramatic and totally unfinished [[Site Manifesto|manifesto]].
 
 ## Accessibility
 This website has been designed to be responsible on mobile and desktop. See below for potential accessibility issues.
@@ -20,7 +22,7 @@ There are some iframes that I'm not sure if they pose an issue. A search didn't 
 
 ### Stuff to Fix
 - Fix HTML syntax in [[Credits]].
-- Fix HTML syntax in [[Meta#Stuff to Fix]].
+- Fix HTML syntax in [[Site Meta#Stuff to Fix]].
 
 ## Color schemes
 ### Light Mode

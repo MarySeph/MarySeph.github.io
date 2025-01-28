@@ -1,7 +1,7 @@
 ![[Nav#^nav]]
 
 # Links
-Table of Contents: [[Links#Buttons]] / [[Links#Web Rings]] / [[Links#Vibing]]
+Table of Contents: [[Links#Web Rings]] / [[Links#Vibing]]
 
 a collection of leads to other parts of the world wide web.
 
@@ -19,24 +19,6 @@ a collection of leads to other parts of the world wide web.
 - [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. "Inclusive" in the widest sense of the word.
 - [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - Japenese-American that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure.
 
-## Buttons
-websites of other indie web developers.
-
-![[button.gif]] ![[button (4).gif]] ![[button (5).gif]]
-
----
-
-<a href="https://dokode.moe">![[dokodemobutton3.gif| 100]]</a>
-<a href="https://nekonokuni.neocities.org">![[button.png |100]]</a>
-<a href="https://oaaky.neocities.org/">![[AdTgkj9.png|100]]</a>
-<a href="https://xandra.cc/">![[88x31-by-rosedryad.png|100]]</a>
-<a href="https://nomnomnami.com/">![[site_button.gif|100]]</a>
-<a href="https://rainstormsinjuly.co/">![[dannarchy.gif|100]]</a>
-<a href="https://desertjaguar.casa/">![[buttondip.png|100]]<a>
-<a href="https://kalechips.net/">![[button (1).png|100]]</a>
-<a href="https://www.beepbird.net/">![[OwlBanner.gif|100]]</a>
-<a href="https://caitsith.neocities.org/">![[caitbutton.gif]]</a>
-<a href="https://cloverbell.neocities.org/" target=blank><img src="https://cloverbell.neocities.org/n_n/cloverbell.gif"></a> 
 <!--<a href="">![[#]]</a>-->
 <!--<a href="">![[#]]</a>-->
 
