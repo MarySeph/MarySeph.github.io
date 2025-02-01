@@ -2,25 +2,24 @@
 
 # Welcome to my site!
 
-Hullo! My name is Mary!
+Hullo! My name is Mary! This is my personal site for some stream of consciousness writing, a digital garden, and creative hobbies like front-end web dev, crochet, and sewing.
 
-This is a space to share my creative hobbies like crochet, creative writing, and web development. I'm inspired by the creativity of personal narratives, and the passions of the indie web.
+This site is a perpetual work in progress!
 
-## Latest Updates
+## What's New
 ![[Changelog]]
 > [[Update Archive| Older Updates]]
-
-## Writing
-![[Blog]]
-![[Garden]]
-
-## Crafts
-![[Crafts#Crafts]]
 
 ## Misc.
 <a href="https://kalechips.net/responsive/index">![[8816-1.png]]</a> <a href="https://notbyai.fyi">![[Created-By-Human-Not-By-AI-Badge-white.png]]</a>
 <!--Aromatic webclique-->
 <p align="center"><a href="http://aromatic.wings.nu/">aromatic</a> // mint</p>
+
+
+
+ <iframe src="https://maryseph.atabook.org/" title="nav" width="100%" height="550em"
+onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
 
 
 ![[Footer#^footer]]

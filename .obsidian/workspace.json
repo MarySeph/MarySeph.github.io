@@ -11,10 +11,24 @@
             "id": "b959252e92de5398",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+ Home.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "+ Home"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -149,7 +164,13 @@
   },
   "active": "b959252e92de5398",
   "lastOpenFiles": [
+    "images/demisexual.png",
+    "images/demisexual.png.crdownload",
+    "images/nonbinary.png",
+    "images/nonbinary.png.crdownload",
     "+ archive/(Archived) Footer.md",
+    "+ Home.md",
+    "Footer.md",
     "04 crafts/04.0 web dev/maryseph-site/About MarySeph.md",
     "04 crafts/04.0 web dev/maryseph-site/Sitemap.md",
     "04 crafts/04.0 web dev/maryseph-site/Update Archive.md",
@@ -160,7 +181,6 @@
     "+ archive/(archived) About.md",
     "04 crafts/04.0 web dev/maryseph-site/Changelog.md",
     "04 crafts/04.0 web dev/maryseph-site/Uses.md",
-    "Footer.md",
     "04 crafts/04.0 web dev/maryseph-site/Layouts.md",
     "Nav.md",
     "04 crafts/Crafts.md",
@@ -170,14 +190,12 @@
     "01 now/Now.md",
     "06 links/Links.md",
     "04 crafts/04.0 web dev/WebDevCommonplace.md",
-    "+ Home.md",
     "04 crafts/04.0 web dev/maryseph-site/Site Manifesto.md",
     "04 crafts/04.1 crochet",
     "04 crafts/04.0 web dev/WebDev.md",
     "images/blog_not_china.gif",
     "02 blog/Social Media Presence Cleanup.md",
     "03 garden",
-    "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "images/1737224878295.jpg",
     "images/P4eo1Gw - Imgur.png",
     "images/45-degree-fabric-light.png",
@@ -186,14 +204,11 @@
     "images/EqNXchu - Imgur.png",
     "images/1734464982681.jpg",
     "images/button (4).gif",
-    "images/button (5).gif",
     "images/45-degree-fabric--light--1920x1080.png.crdownload",
     "images/45-degree-fabric-light.png.crdownload",
     "03 writing/00 shrines",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
     "images/caitbutton.gif.crdownload",
-    "images/kawaiiness - Imgur.png.crdownload",
-    "+ archive",
-    "00 templates"
+    "images/kawaiiness - Imgur.png.crdownload"
   ]
 }
