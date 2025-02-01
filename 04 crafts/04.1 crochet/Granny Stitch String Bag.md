@@ -9,7 +9,7 @@
     
 ## Materials
 - Hook: 4.5mm. 5.0mm, 6.5mm
-- [material]
+- Yarn needle
 - Scissors
 - Stitch markers
 

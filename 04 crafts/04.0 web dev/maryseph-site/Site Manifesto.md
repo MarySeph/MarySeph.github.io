@@ -20,7 +20,7 @@ This manifesto is both a promise to you, dear web surfer, and me, the webmaster.
 
 1. Accessibility
 
-With this site, I want to practice the highest web accessibility standards for personal websites. [These guidelines I will follow](https://www.w3.org/WAI/standards-guidelines/wcag/). I communicate potential and known accessibility issues [[Site Meta#Stuff to Fix|here]].
+With this site, I want to practice the highest web accessibility standards for personal websites. [These guidelines I will follow](https://www.w3.org/WAI/standards-guidelines/wcag/). I communicate potential and known accessibility issues [[(archived) Site Meta#Stuff to Fix|here]].
 
 Let it be known that when I'm developing this site, I'm keeping low-vision readers, those with motion sensitivity, and mobile users in mind. Because of personal experience and aesthetic choices, I will refrain, at ANY point, from using blinkies, low-contrast images, and excessive gifs. However, if I do and I catch it, it will be noted in the above webpage.
 

@@ -3,7 +3,7 @@
 # Accessing this Site
 Last updated: October 29th, 2024
 
-This website has been designed to be responsible on mobile and desktop. See [[SitePlans#Stuff to Fix|this page]] for potential accessibility issues.
+This website has been designed to be responsible on mobile and desktop. See [[(archived) SitePlans#Stuff to Fix|this page]] for potential accessibility issues.
 
 There are some iframes that I'm not sure if they pose an issue. A search didn't give me an answer on that.
 

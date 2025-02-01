@@ -8,7 +8,7 @@ This is a space to share my creative hobbies like crochet, creative writing, and
 
 ## Latest Updates
 ![[Changelog]]
-> [[UpdateArchive | Older Updates]]
+> [[Update Archive| Older Updates]]
 
 ## Writing
 ![[Blog]]

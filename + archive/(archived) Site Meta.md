@@ -1,9 +1,9 @@
 ![[Nav#^nav]]
 
 # Site Meta
-Table of Contents: [[Site Meta#Accessibility]] / [[Site Meta#Color schemes]]
+Table of Contents: [[(archived) Site Meta#Accessibility]] / [[(archived) Site Meta#Color schemes]]
 
-> [[UpdateArchive]] | [[Layouts]] | [[SitePlans]] | [[Uses]] | [[Changelog]]
+> [[Update Archive]] | [[Layouts]] | [[(archived) SitePlans]] | [[Uses]] | [[Changelog]]
 
 This site is being developed with [Obsidian](https://obsidian.md/)-flavored markdown then converted to HTML in VSCode before being uploaded to Neocities.
 
@@ -21,8 +21,7 @@ There are some iframes that I'm not sure if they pose an issue. A search didn't 
 **Disclaimer:** I don't use a screen reader or any other type of assistive device to surf the web. If there's any section of this website that is inaccessible, [please drop me a message](https://maryseph.atabook.org/). I'm an indie web dev who's learning about web accessibility and would appreciate the feedback.
 
 ### Stuff to Fix
-- Fix HTML syntax in [[Credits]].
-- Fix HTML syntax in [[Site Meta#Stuff to Fix]].
+- Nothing for now.
 
 ## Color schemes
 ### Light Mode

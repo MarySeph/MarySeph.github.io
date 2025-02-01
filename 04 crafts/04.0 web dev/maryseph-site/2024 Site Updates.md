@@ -1,7 +1,7 @@
-> [[UpdateArchive| Go back]]
+> [[Update Archive| Go back]]
 
 ## December 27th, 2024
-Last update of the year! Hopefully. I have been working on this site almost non-stop. The biggest changes can be easily found in the nav and footer. For starters, I made about pages of the webmaster and the site! The latter leads to the [[UpdateArchive]] and a [[Layouts]] page. Because of those changes, [[SitePlans|Dev Log: Neocities Site]] only has site plans. Kalechips and seafare's sites were a great reference for these changes. Many thanks. Last but not least, the [[2024XmasPresents]] crochet projects are complete.
+Last update of the year! Hopefully. I have been working on this site almost non-stop. The biggest changes can be easily found in the nav and footer. For starters, I made about pages of the webmaster and the site! The latter leads to the [[Update Archive]] and a [[Layouts]] page. Because of those changes, [[(archived) SitePlans|Dev Log: Neocities Site]] only has site plans. Kalechips and seafare's sites were a great reference for these changes. Many thanks. Last but not least, the [[2024XmasPresents]] crochet projects are complete.
 
 ## December 16th, 2024
 MASSIVE update! [[Crafts]] and [Guestbook](https://maryseph.atabook.org/) in the nav bar are now available. With this, all items in the nav now lead to somewhere! In the crafts page, I added some WIPs. The guestbook is made with atabook.org. I also added a visitor counter, a clap button, and two stickers to the main page. Last but not least, I resized the iframe this page shows in the main page and styled the scrollbar.
@@ -21,9 +21,9 @@ I added [[Out of Sight, Out of Mind|a new short story]]! I also created a common
 Refocusing my efforts in writing and making that available in [[Writing|here]]. New [[Now]] entry. [[Links]] page is now available. It has buttons leading to other sites and a single webring I managed to apply to.
 
 ## October 30th, 2024
-Finished updating the whole website with the new layout. Checked off a bunch of items from my [[SitePlans#Site Plans|site plans]] such as a site updates log (you're here!), a site map (see footer), using a minimalist layout, introducing iframes, and an accessibility statement (see footer).
+Finished updating the whole website with the new layout. Checked off a bunch of items from my [[(archived) SitePlans#Site Plans|site plans]] such as a site updates log (you're here!), a site map (see footer), using a minimalist layout, introducing iframes, and an accessibility statement (see footer).
 
-Two important items left for accessibility are*adding alt text to images* and seeing whether to*add an option to manually change to dark mode*.
+Two important items left for accessibility are *adding alt text to images* and seeing whether to *add an option to manually change to dark mode*.
 
 Welp, I had some free time added alt text and tested the dark mode. I'll keep the latter in the background for now. I also updated the [[WebDevCommonplace|commonplace notebook]] with more sites and resources.
 

@@ -1,8 +1,8 @@
 ![[Nav#^nav]]
 
 # Laundry Hamper
-Start date: 12/02/2024; End date: [MM/DD/YYYY].
-Pattern: Modified [Hopeful Turn's Crochet Foldable Market Bag](https://youtu.be/fRoHan83e-c?si=Y2soXvzDk_4Lecdw), and [Sirin's Crochet Basic Chord](https://youtu.be/zd7N9hWUNqc?si=Z4a-9cEVXMnuptFl).
+Start date: 12/02/2024; End date: 01/26/2025.
+Pattern: Modified [Hopeful Turn's Crochet Foldable Market Bag](https://youtu.be/fRoHan83e-c?si=Y2soXvzDk_4Lecdw).
 
 [Add image]
 
@@ -11,6 +11,7 @@ Pattern: Modified [Hopeful Turn's Crochet Foldable Market Bag](https://youtu.be/
 - Stitch marker
 - Yarn needle
 - Button
+- Scissors
 
 ### Yarn
 - Color A: Lily's Sugar and Creme, Original, color British Blue.
@@ -24,7 +25,8 @@ Unfinished at the time of writing these notes, this project came to be as a pers
 
 I bought a set of six balls of color A and three balls of color B. It was also Thanksgiving holiday. I gave myself permission to take part in the consumerism culture for once (I didn't last year) but not really but one could make the argument this project wasn't *urgent.* Anyways.
 
-I'm almost done with the bag. I forgot to add the strap to close it, HAHA! I just finished attaching the strap (feels different after sewing all the straps for the new version of the [[Granny Stitch String Bag]]). This is another why having a crafts notebook is VERY important! One forgets things... I'll probably add a picture at the end. For the drawstring, I'm reusing a chord from another bag, maybe.
-I just made a new set of notebooks and I'm pretty happy with them.
+I'm almost done with the bag. I ended up using two balls of Color A and four balls of Color B. ...I forgot to add the strap to close it, HAHA! Okay, I just finished attaching the strap (feels different after sewing all the straps for the new version of the [[Granny Stitch String Bag]]). This is another why having a crafts notebook is VERY important! One forgets things... For the drawstring, I'm reusing a chord from another bag, maybe.
+
+I attached the strap on the wrong side. the mouth of the bag is supposed to be on the inside. I really don't feel like taking it off and reattaching so we going like this till I can't deal with it. The grey strap also greatly contrasts with the rest of the project. It bothers me. But I don't want to make another one so. Yeah! Great project, might fix some silly mistakes, might not. Thanks for reading!
 
 ![[Footer#^footer]]

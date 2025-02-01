@@ -31,6 +31,5 @@
   "mobileQuickRibbonItem": "graph:Open graph view",
   "showFrontmatter": false,
   "showLineNumber": false,
-  "showInlineTitle": false,
-  "showRibbon": false
+  "showInlineTitle": false
 }

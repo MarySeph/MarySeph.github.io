@@ -5,18 +5,17 @@
 ## Web Dev
 > [[WebDevCommonplace]]
 
-- [[SitePlans|Dev Log: Neocities Site]]
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
-- [Web Dev Lisfauxgraphy]()
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 
 ## Crochet
+- [[Mesh Bag (WIP)]]
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]
 - [[Crochet Bath Set Collection (WIP)]]
 - [[Granny Stitch String Bag]]
 - [[2024XmasPresents |2024 Scrappy Yarn Christmas Presents]]
-- [[LaundryHamper (WIP)]] 
+- [[Laundry Hamper]]
 - [[GrannyHexagonBlanket (WIP)|Stash-busting Granny Hexagon...Blanket? (WIP)]] 
 
 ## Misc.

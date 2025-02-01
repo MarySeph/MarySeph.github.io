@@ -6,5 +6,6 @@
   "monospaceFontFamily": "Monaco",
   "baseFontSize": 15,
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": false
 }

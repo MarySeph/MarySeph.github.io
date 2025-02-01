@@ -1,11 +1,11 @@
-## From [[SitePlans]]
+## From [[(archived) SitePlans]]
 ### Design
-- Site cursor (mention artist in [[Credits]]).
-- Site favicon (mention artist in [[Credits]]).
+- Site cursor (mention artist in [[(archived) Credits]]).
+- Site favicon (mention artist in [[(archived) Credits]]).
 - Modify link order in [[Footer]].
-- Modify [[SitePlans]], maybe rename to [[SitePlans]] and add to [[+ Home]]?
-	- Move links to source code and page template to [[Site Meta]].
-- updates--maybe make a page named [[UpdateArchive]] and put all previous dates there.
+- Modify [[(archived) SitePlans]], maybe rename to [[(archived) SitePlans]] and add to [[+ Home]]?
+	- Move links to source code and page template to [[(archived) Site Meta]].
+- updates--maybe make a page named [[Update Archive]] and put all previous dates there.
 - Maybe change some stuff in the header and footer. Bring down guestbook link to footer, add credits to footer. Add about link to footer.
 - add [ghost garden's](https://ghostgarden.neocities.org/) TOC style to some pages.
 - Scroll bar to site updates in [[+ Home|homepage]].
@@ -26,13 +26,13 @@
 	- [Mr. Circus Papa](https://tapas.io/MrCircusPapa) - horror comic artist. Their artstyle may be cute but their stories portray heavy topics without pulling any punches.
 	- [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. humongous amount of character customization and inclusive dialogue choices in the widest sense of the word. 
 	- [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - YT channels that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure (which probably warrants a 13+ warning).%%
-- Add [[Nav]] and [[Footer]] to [[UpdateArchive]].
-- Add link to guestbook in [[Site Meta#Accessibility]].
-- Add info about site deployment to [[Site Meta]].
-- Display unchecked [[SitePlans#Stuff to Fix]]; make archive for older ones.
+- Add [[Nav]] and [[Footer]] to [[Update Archive]].
+- Add link to guestbook in [[(archived) Site Meta#Accessibility]].
+- Add info about site deployment to [[(archived) Site Meta]].
+- Display unchecked [[(archived) SitePlans#Stuff to Fix]]; make archive for older ones.
 - Display only latest site update in [[+ Home]]; includes archiving old.
-- Display only unchecked [[SitePlans#Site Plans]]; make archive for older ones. [[(ARCHIVED) Site Plans & Stuff to Fix]]?
-- [[SitePlans#<h2 id="credits">Credits</h2>]] section.
+- Display only unchecked [[(archived) SitePlans#Site Plans]]; make archive for older ones. [[(ARCHIVED) Site Plans & Stuff to Fix]]?
+- [[(archived) SitePlans#<h2 id="credits">Credits</h2>]] section.
 - Create Crafts page
 ### Both
 - Minimalist layout.
@@ -48,9 +48,9 @@
 - Template page
 - Guestbook
 - Website Button!
-- Try out Listfauxgraphy ([Summer Dream's version (OG)](https://summerstorms.me/Thoughts/Listfauxgraphy) & [Kalechips' version](https://kalechips.net/projects/code/listfauxgraphy)) with [[WebDevCommonplace]], [[SitePlans]], and [[(ARCHIVED) Site Plans & Stuff to Fix]].
+- Try out Listfauxgraphy ([Summer Dream's version (OG)](https://summerstorms.me/Thoughts/Listfauxgraphy) & [Kalechips' version](https://kalechips.net/projects/code/listfauxgraphy)) with [[WebDevCommonplace]], [[(archived) SitePlans]], and [[(ARCHIVED) Site Plans & Stuff to Fix]].
 
-## From [[Site Meta#Stuff to Fix]]
+## From [[(archived) Site Meta#Stuff to Fix]]
 - alt image descriptions
 - Img width in and [[07.03.2024|this one]].
 - (Check ul text-decoration style, probs set to "none") Links in light mode's main tag aren't underlined so it's hard to know what's clickable and not grrr...
