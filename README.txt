@@ -1,1 +1,1 @@
-soource code of my website.
+source code of MarySeph website.
