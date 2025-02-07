@@ -9,7 +9,7 @@
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 
 ## Crochet
-- [[Mesh Bag (WIP)]]
+- [[Mesh Bag]]
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]
 - [[Crochet Bath Set Collection (WIP)]]

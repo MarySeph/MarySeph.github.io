@@ -11,6 +11,7 @@
 - Scroll bar to site updates in [[+ Home|homepage]].
 	- Check [here](https://kalechips.net/), [here](https://aarix.neocities.org/, aaaand [here](https://www.w3schools.com/tags/tag_iframe.AS) for reference.
 ### Structure
+- create RSS feed.
 - Share hubs from small creators in [[Links]] outside of Neocities (ex. self-hosted websites, YT channels, Twitch, Wordpress blogs, etc).
 	%%
 	- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) - do you like, no LOVE HGTV and other TV channels/programs on domestic arts? This channel is basically that. bonus points for making me want to become a better human being. sure few online content can do *that*.

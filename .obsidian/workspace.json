@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
+                "file": "04 crafts/04.0 web dev/maryseph-site/About MarySeph.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "About MarySeph"
+            }
+          },
+          {
+            "id": "d99e9798c6b6da8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(ARCHIVED) Site Plans & Stuff to Fix"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 crafts/04.0 web dev/maryseph-site/About MarySeph.md",
+                "file": "Organizing my Buttons Stash (WIP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About MarySeph"
+              "title": "Outline of Organizing my Buttons Stash (WIP)"
             }
           }
         ],
@@ -162,20 +187,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b959252e92de5398",
+  "active": "d99e9798c6b6da8f",
   "lastOpenFiles": [
+    "04 crafts/04.0 web dev/WebDevCommonplace.md",
+    "04 crafts/Organizing my Buttons Stash (WIP).md",
+    "04 crafts/04.0 web dev/maryseph-site/About MarySeph.md",
+    "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
+    "01 now/Now.md",
+    "+ archive/(archived) SitePlans.md",
+    "06 links/Links.md",
+    "+ Home.md",
+    "04 crafts/Crafts.md",
+    "04 crafts/04.1 crochet/GrannyHexagonBlanket (WIP).md",
+    "04 crafts/04.1 crochet/Crochet Bath Set Collection (WIP).md",
+    "04 crafts/04.1 crochet/Mesh Bag.md",
     "images/demisexual.png",
     "images/demisexual.png.crdownload",
     "images/nonbinary.png",
     "images/nonbinary.png.crdownload",
     "+ archive/(Archived) Footer.md",
-    "+ Home.md",
     "Footer.md",
-    "04 crafts/04.0 web dev/maryseph-site/About MarySeph.md",
     "04 crafts/04.0 web dev/maryseph-site/Sitemap.md",
     "04 crafts/04.0 web dev/maryseph-site/Update Archive.md",
     "04 crafts/04.0 web dev/maryseph-site/2024 Site Updates.md",
-    "+ archive/(archived) SitePlans.md",
     "+ archive/(archived) Site Meta.md",
     "+ archive/(archived) Credits.md",
     "+ archive/(archived) About.md",
@@ -183,18 +217,10 @@
     "04 crafts/04.0 web dev/maryseph-site/Uses.md",
     "04 crafts/04.0 web dev/maryseph-site/Layouts.md",
     "Nav.md",
-    "04 crafts/Crafts.md",
-    "04 crafts/04.1 crochet/Mesh Bag (WIP).md",
     "04 crafts/04.1 crochet/Laundry Hamper.md",
     "04 crafts/04.1 crochet/Granny Stitch String Bag.md",
-    "01 now/Now.md",
-    "06 links/Links.md",
-    "04 crafts/04.0 web dev/WebDevCommonplace.md",
-    "04 crafts/04.0 web dev/maryseph-site/Site Manifesto.md",
     "04 crafts/04.1 crochet",
-    "04 crafts/04.0 web dev/WebDev.md",
     "images/blog_not_china.gif",
-    "02 blog/Social Media Presence Cleanup.md",
     "03 garden",
     "images/1737224878295.jpg",
     "images/P4eo1Gw - Imgur.png",
@@ -203,7 +229,6 @@
     "images/F10c885 - Imgur.png",
     "images/EqNXchu - Imgur.png",
     "images/1734464982681.jpg",
-    "images/button (4).gif",
     "images/45-degree-fabric--light--1920x1080.png.crdownload",
     "images/45-degree-fabric-light.png.crdownload",
     "03 writing/00 shrines",

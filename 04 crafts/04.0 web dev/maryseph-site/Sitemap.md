@@ -27,7 +27,7 @@ A simplified map of this site.
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 ### Crochet
-- [[Mesh Bag (WIP)]]
+- [[Mesh Bag]]
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]
 - [[Crochet Bath Set Collection (WIP)]]

@@ -1,7 +1,7 @@
 ![[Nav#^nav]]
 
 # About Mary Seph
-Table of Contents: [[About MarySeph#Accessibility]] / [[About MarySeph#Site Plans]] / [[About MarySeph#Credits]]
+Table of Contents: [[About MarySeph#Accessibility]] / [[About MarySeph#Site Plans]] / [[About MarySeph#Site History]] / [[About MarySeph#Content Disclaimer]] / [[About MarySeph#Copyright Policy]] / [[About MarySeph#Credits]]
 
 ## The Site
 > [[Update Archive]] | [[Layouts]]
@@ -9,8 +9,6 @@ Table of Contents: [[About MarySeph#Accessibility]] / [[About MarySeph#Site Plan
 This site is being developed with [Obsidian](https://obsidian.md/)-flavored markdown then converted to HTML in VSCode before being uploaded to Neocities.
 
 The site's [source code](https://github.com/MarySeph/Marys-Creative-Corner) and a [page template](https://github.com/MarySeph/Marys-Creative-Corner/blob/main/template.htm) are available on Github for download.
-
-Copyright statement of this site is pending.
 
 Read the annoyingly long, overly-dramatic and totally unfinished [[Site Manifesto|manifesto]].
 
@@ -30,7 +28,7 @@ There are some iframes that I'm not sure if they pose an issue. A search didn't 
 - Apply semantic tags
 - Add space to the left of all text after a title (padding or margin?).
 #### Structure
-- create RSS feed.
+- add socials to footer or someplace like that
 - a manifesto for the site's ethos.
 - Add notes about responsive web design.
 #### Both
@@ -41,6 +39,15 @@ There are some iframes that I'm not sure if they pose an issue. A search didn't 
 - [[Crochet Bath Set Collection (WIP)]]
 #### Other
 - Create status.cafe account and add to site
+
+### Site History
+This website was born in October 2024 and was hosted in Neocities till January 27th where I changed hosts to Github Pages.
+
+### Content Disclaimer
+The information in this website is intended for teen audiences and up mostly due to the complexity of the content.
+
+### Copyright Policy
+Pending. Will probably switch to MIT License.
 
 ### Color schemes
 #### Light Mode
