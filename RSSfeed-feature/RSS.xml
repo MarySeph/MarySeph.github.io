@@ -2,22 +2,23 @@
 <!--Reference: https://www.w3schools.com/XML/xml_rss.asp-->
 <rss version="2.0">
     
-
     <channel>
         <!--Basic information of RSS feed-->
         <title>MarySeph's Updatelog</title>
-        <description>An RSS feed for the major updates of Mary Seph.</description>
         <link>https://maryseph.github.io/</link>
+        <description>An RSS feed for the major updates of Mary Seph.</description>
         <category>Digital Minimalism, Web Development, </category>
         <language>en</language>
-        <lastBuildDate>2 February 2025</lastBuildDate>
-        <pubDate>2 February 2025</pubDate>
+        <lastBuildDate></lastBuildDate>
+        <pubDate></pubDate>
         <ttl>5</ttl>
 
         <!--Each item tag encloses an article-->
         <item>
             <title>Social Media Cleanup</title>
             <link>https://maryseph.github.io/02%20blog/03%20longform/smp-cleanup.html</link>
+            <guid>https://maryseph.github.io/02%20blog/03%20longform/smp-cleanup.htm</guid>
+            <pubDate></pubDate>
             <description>A free form reflection of how I'm cleaning up obsolete accounts and take
                 responsibility for my online presence.</description>
         </item>
