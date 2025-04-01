@@ -1,1 +1,1 @@
-soource code of my neocities website.
+source code of MarySeph website.
