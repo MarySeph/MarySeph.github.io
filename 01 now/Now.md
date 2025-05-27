@@ -3,12 +3,14 @@
 # Now
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
-**Reading**: Frankenstein, or the Modern Prometheus.
+**Reading**: Umineko no Naku Koro Ni Episode 3 Vol.1.
 **Writing**: *Check back later*.
-**Crafting**: [[Organizing my Buttons Stash (WIP)]] .
+**Crafting**: [[Hexagon Shirt]] .
 **Developing**: *Check back later*.
-**Learning**: Front-end web development.
-**Feeling**: Confident.
+**Learning**: GitHub Flow.
+**Feeling**: .
+
+## May 27, 2025
 
 ## January 27th, 2025
 Whoop whoop, what a strange place to be! The home of this site has been neocities for the past four months. While I'm writing on the markdown version, I'm updating this site, from [Github Pages](https://maryseph.github.io/)! Not gonna lie, it feels much more lonely. But as I explained [[Social Media Presence Cleanup|here]], one of the goals from starting my own website was to make it slightly more professional. The kind of website I can share with people in real life and is tied to my... government identity I guess, for lack of a better term.
