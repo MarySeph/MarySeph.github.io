@@ -11,10 +11,24 @@
             "id": "fef1cef3d32e8e23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+ Home.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "+ Home"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -147,38 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c16295c9acd2a9a7",
+  "active": "fef1cef3d32e8e23",
   "lastOpenFiles": [
     "01 now/Now.md",
-    "04 projects/04.1 crochet/Hexagon Shirt.md",
     "+ Home.md",
+    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
+    "Nav.md",
+    "Footer.md",
+    "05 links/Nature-inspiredArt.md",
+    "05 links/Links.md",
+    "04 projects/Projects.md",
+    "04 projects/04.1 crochet/Pouches for Device Chargers.md",
+    "04 projects/04.1 crochet/Mesh Bag.md",
+    "04 projects/04.1 crochet/Laundry Hamper.md",
+    "04 projects/04.1 crochet/Hexagon Shirt.md",
     "04 projects/04.0 web dev/maryseph-site/About MarySeph.md",
     "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "04 projects/04.0 web dev/WebDevCommonplace.md",
     "04 projects/Organizing my Buttons Stash (WIP).md",
     "+ archive/(archived) SitePlans.md",
-    "06 links/Links.md",
-    "04 projects/Crafts.md",
     "04 projects/04.1 crochet/GrannyHexagonBlanket (WIP).md",
     "04 projects/04.1 crochet/Crochet Bath Set Collection (WIP).md",
-    "04 projects/04.1 crochet/Mesh Bag.md",
     "images/demisexual.png",
     "images/demisexual.png.crdownload",
     "images/nonbinary.png",
     "images/nonbinary.png.crdownload",
     "+ archive/(Archived) Footer.md",
-    "Footer.md",
     "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
     "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
     "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
     "+ archive/(archived) Site Meta.md",
     "+ archive/(archived) Credits.md",
     "+ archive/(archived) About.md",
-    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
-    "04 projects/04.0 web dev/maryseph-site/Uses.md",
-    "04 projects/04.0 web dev/maryseph-site/Layouts.md",
-    "Nav.md",
-    "04 projects/04.1 crochet/Laundry Hamper.md",
     "04 projects/04.1 crochet",
     "images/blog_not_china.gif",
     "03 garden",

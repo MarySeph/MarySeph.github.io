@@ -21,7 +21,7 @@ A simplified map of this site.
 
 ## [[Garden]]
 
-## [[Crafts]]
+## [[Projects]]
 
 ### WebDev
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]

@@ -1,6 +1,6 @@
 ![[Nav#^nav]]
 
-# Crafts
+# Projects
 
 ## Web Dev
 > [[WebDevCommonplace]]
@@ -9,6 +9,8 @@
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 
 ## Crochet
+- [[Hexagon Shirt]]
+- [[Pouches for Device Chargers]]
 - [[Mesh Bag]]
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]

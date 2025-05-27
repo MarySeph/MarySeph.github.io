@@ -4,13 +4,26 @@
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Umineko no Naku Koro Ni Episode 3 Vol.1.
-**Writing**: *Check back later*.
-**Crafting**: [[Hexagon Shirt]] .
-**Developing**: *Check back later*.
+**Writing**: The Music Learning Experience.
+**Crafting**: [[Hexagon Shirt]].
+**Developing**: This site.
 **Learning**: GitHub Flow.
-**Feeling**: .
+**Feeling**: Satisfied.
 
 ## May 27, 2025
+Oh my, oh my, am I glad to be back tweaking this site! I chose to put this site aside to focus on my studies and I'm proud to inform that after doing an internship, this enby will be the owner of a Bachelor degree! In Environmental Science! Woohoo! Haha.
+
+I've been back home for a almost three weeks and I'm getting my groove back. I returned from my trip to the capital a couple of days ago and I'm enjoying my birthday updating this site and doing crafts.
+
+I have been reading about git flows with the intention of applying some to my workflow. As a self-taught front-end web developer working solo, I want to take my expertise with git to the next level. With workflows, I'll be handling branches, making pull requests and overall getting a deeper understanding of this tool. Here the original [post](https://nvie.com/posts/a-successful-git-branching-model/) from Vincent Driessen, here's [another post](https://jeffkreeftmeijer.com/git-flow/) based on it, and here's [a video](https://www.youtube.com/watch?v=gW6dFpTMk8s) on Git Flow and GitHub Flow.
+
+At the moment, I find that GitHub Flow works better for solo projects such a personal websites because its a faster workflow than Git Flow which relies on more branches and assumes a longer development period. One of the things that I want to polish from my current workflow is the process from the website's content which is currently under the `markdown` branch to the HTML/CSS syntax. I don't mind copy and pasting but I have had trouble remembering what I need to copy. I want to introduce more discipline into my workflow going directly from MD draft to HTML/CSS syntax and not get distracted from writing/editing other things.
+
+Overall, I'm doing pretty well. I have applied to an internship and I'm waiting for an answer. If that doesn't work out, I have a few ideas. I'm planning on finishing a little project called [LinkFree](https://maryseph.github.io/MariaJoseRuiz-LinkFree/) which is a self-coded version of LinkTree. I'm not sure if there's an official name for one page websites with links to different accounts of an individual/entity but that's what it is. I just need to add the rest of the icons, fix the link to my CV, and add the credits section. The link to the portfolio is a placeholder till I get to that project.
+
+On a random final note, I got into a customizing kick and set up Rainmeter and TranslucentTB, and designed my own aesthetic desktop background for my laptop. It's the first time I have done something like this to my devices and I'm happy with the result. I always had trouble deciding on a desktop background so a productivity-focused one was just what I needed, haha. It got the time and date in the center, a monthly calendar, a weather widget, and several drawers for most used app, projects, and a priority list similar to what's at the top of the page. This totally wasn't to scratch the web dev itch while procrastinating on homework, not at all.
+
+Welp, here's to more updates to come! Cheers!
 
 ## January 27th, 2025
 Whoop whoop, what a strange place to be! The home of this site has been neocities for the past four months. While I'm writing on the markdown version, I'm updating this site, from [Github Pages](https://maryseph.github.io/)! Not gonna lie, it feels much more lonely. But as I explained [[Social Media Presence Cleanup|here]], one of the goals from starting my own website was to make it slightly more professional. The kind of website I can share with people in real life and is tied to my... government identity I guess, for lack of a better term.
