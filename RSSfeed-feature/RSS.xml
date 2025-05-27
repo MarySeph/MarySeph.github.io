@@ -9,8 +9,8 @@
         <description>An RSS feed for the major updates of Mary Seph.</description>
         <category>Digital Minimalism, Web Development, </category>
         <language>en</language>
-        <lastBuildDate></lastBuildDate>
-        <pubDate></pubDate>
+        <lastBuildDate>Sun, 2 Feb 2025 00:00:00 +0000</lastBuildDate>
+        <pubDate>Sun, 2 Feb 2025 00:00:00 +0000</pubDate>
         <ttl>5</ttl>
 
         <!--Each item tag encloses an article-->
@@ -18,7 +18,7 @@
             <title>Social Media Cleanup</title>
             <link>https://maryseph.github.io/02%20blog/03%20longform/smp-cleanup.html</link>
             <guid>https://maryseph.github.io/02%20blog/03%20longform/smp-cleanup.htm</guid>
-            <pubDate></pubDate>
+            <pubDate>Sun, 2 Feb 2025 00:00:00 +0000</pubDate>
             <description>A free form reflection of how I'm cleaning up obsolete accounts and take
                 responsibility for my online presence.</description>
         </item>
