@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mary Seph | New Homepage</title>
+    <meta name="author" content="MarySeph">
+    <meta name="description" content="a new website">
+    <link href="#" rel="stylesheet" type="text/css" media="all">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
+</head>
+
+<body>
+    <div id="container">
+        <div id="headerArea">
+            <nav id="navbar" style="margin-bottom: 0px;">
+                <iframe src="nav.html" title="nav"
+                onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+            </nav>
+        </div>
+    
+        <div id="flex">
+            <main>
+                <h1>Welcome to my site!</h1>
+                <p>Hullo! My name is Mary!
+                    This is my personal site for some stream of consciousness writing and creative hobbies like front-end web dev, crochet, and sewing.</p>
+                <p>This site is a perpetual work in progress.</p>
+                
+                <aside id="changelog">
+                    <h2>Changelog</h2>
+                    <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="site updates" scroll="true"
+                            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+                </aside>
+                
+
+                <aside id="blog-updates">
+                    <h2>Latest Blog</h2>
+                    <p><a href="/02 blog/03 longform/smp-cleanup.html">Social Media Cleanup</a></p>
+                </aside>
+                
+
+            <iframe src="/backtotop.html" title="back to top"
+                onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()">
+            </iframe>
+            </main>
+    
+            <aside id="rightSidebar">
+                <h2>Status</h2>
+                <div class="box">
+                    <div id="statuscafe">
+                        <div id="statuscafe-username"></div>
+                        <div id="statuscafe-content"></div>
+                    </div>
+                    <script src="https://status.cafe/current-status.js?name=maryseph" defer></script>
+                </div>
+
+                <h2>Latest Update</h2>
+                <div class="box">
+                    
+                </div>
+
+                <h2>Stickers</h2>
+                <div class="box">
+                
+                </div>
+
+                <h2>Links</h2>
+                <div class="box">
+                    <a href="https://maryswritinggarden.wordpress.com/"><img src="/images/icons8-wordpress-48.png"></a>
+                    <a href="https://github.com/MarySeph"><img src="/images/github.png"></a>
+                    <a href="https://www.linkedin.com/in/mariajoseruizpiza/"><img src="/images/linkedin.png"></a>
+                </div>
+            
+            </aside>
+
+        </div>
+
+        <footer id="footer" style="margin-top: 0px;">
+            <iframe src="/footer.html" title="footer"
+                onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()">
+                </iframe>
+        </footer>
+    </div>
+</body>        
+</html>
