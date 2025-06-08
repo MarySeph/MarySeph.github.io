@@ -1,7 +1,7 @@
 ## From [[(archived) SitePlans]]
 ### Design
-- Site cursor (mention artist in [[(archived) Credits]]).
-- Site favicon (mention artist in [[(archived) Credits]]).
+- Site cursor (mention artist in [[Credits]]).
+- Site favicon (mention artist in [[Credits]]).
 - Modify link order in [[Footer]].
 - Modify [[(archived) SitePlans]], maybe rename to [[(archived) SitePlans]] and add to [[+ Home]]?
 	- Move links to source code and page template to [[(archived) Site Meta]].

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "886717003d2decea",
+        "id": "c47609a229774d59",
         "type": "tabs",
         "children": [
           {
-            "id": "fef1cef3d32e8e23",
+            "id": "143d4d313d0ae02d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
+                "file": "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "Sitemap"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -137,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizing my Buttons Stash (WIP).md",
+                "file": "+ Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Organizing my Buttons Stash (WIP)"
+              "title": "Outline of + Home"
             }
           }
         ],
@@ -162,16 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fef1cef3d32e8e23",
+  "active": "143d4d313d0ae02d",
   "lastOpenFiles": [
-    "01 now/Now.md",
-    "+ Home.md",
-    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
+    "04 projects/Projects.md",
     "Nav.md",
     "Footer.md",
+    "Accessibility.md",
+    "+ Home.md",
+    "01 now/Now.md",
+    "images/icons8-wordpress-48.png",
+    "images/github.png",
+    "images/linkedin.png",
+    "Credits.md",
+    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
     "05 links/Nature-inspiredArt.md",
     "05 links/Links.md",
-    "04 projects/Projects.md",
     "04 projects/04.1 crochet/Pouches for Device Chargers.md",
     "04 projects/04.1 crochet/Mesh Bag.md",
     "04 projects/04.1 crochet/Laundry Hamper.md",
@@ -191,9 +195,6 @@
     "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
     "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
     "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
-    "+ archive/(archived) Site Meta.md",
-    "+ archive/(archived) Credits.md",
-    "+ archive/(archived) About.md",
     "04 projects/04.1 crochet",
     "images/blog_not_china.gif",
     "03 garden",
@@ -201,9 +202,6 @@
     "images/P4eo1Gw - Imgur.png",
     "images/45-degree-fabric-light.png",
     "images/G8AyR6r - Imgur.png",
-    "images/F10c885 - Imgur.png",
-    "images/EqNXchu - Imgur.png",
-    "images/1734464982681.jpg",
     "images/45-degree-fabric--light--1920x1080.png.crdownload",
     "images/45-degree-fabric-light.png.crdownload",
     "03 writing/00 shrines",

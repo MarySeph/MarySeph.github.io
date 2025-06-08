@@ -1,2 +1,2 @@
-[[Sitemap| sitemap]] | [[(archived) Accessibility| accessibility statement]] | [guestbook](https://maryseph.atabook.org/) | [neocities profile](https://neocities.org/site/maryseph) | [[(archived) Credits|credits]]
+[[Sitemap| sitemap]] | [[Accessibility| accessibility statement]] | [guestbook](https://maryseph.atabook.org/) | [neocities profile](https://neocities.org/site/maryseph) | [[Credits|credits]]
 [[(archived) Site Meta|Mary's Creative Corner]] © 2024 [[(archived) About|maryseph]] ^footer

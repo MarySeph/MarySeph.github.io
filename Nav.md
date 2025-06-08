@@ -1,1 +1,1 @@
-[[+ Home]] | [[Now]] | [Blog](https://maryswritinggarden.wordpress.com/) | [Garden]() | [[Projects]] | [[Links]] ^nav
+[[+ Home]] | [[Now]] | [[Blog]] | [[Projects]] | [[Links]] ^nav

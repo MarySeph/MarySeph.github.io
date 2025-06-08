@@ -10,7 +10,7 @@ this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Learning**: GitHub Flow.
 **Feeling**: Satisfied.
 
-## May 27, 2025
+## May 27th, 2025
 Oh my, oh my, am I glad to be back tweaking this site! I chose to put this site aside to focus on my studies and I'm proud to inform that after doing an internship, this enby will be the owner of a Bachelor degree! In Environmental Science! Woohoo! Haha.
 
 I've been back home for a almost three weeks and I'm getting my groove back. I returned from my trip to the capital a couple of days ago and I'm enjoying my birthday updating this site and doing crafts.

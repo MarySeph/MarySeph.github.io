@@ -1,6 +1,5 @@
-[[Sitemap| sitemap]] | [contact](https://maryseph.atabook.org/) | [RSS]()
- [♡](https://copyheart.org/) 2024 [[About MarySeph|Maryseph]] 
- Copying Art is an act of love. Please copy and share. ^footer
+[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [guestbook](https://maryseph.atabook.org/) | [[Credits]] | [RSS]()
+ [♡](https://copyheart.org/) 2024 [[About MarySeph|Maryseph]] ^footer
 
 <p align="center">
 <a href="obsidian://open?vault=Marys-Creative-Corner&file=Home">Home</a> |

@@ -1,6 +1,6 @@
 ![[Nav#^nav]]
 
-# Accessing this Site
+# Accessibility Statement
 Last updated: October 29th, 2024
 
 This website has been designed to be responsible on mobile and desktop. See [[(archived) SitePlans#Stuff to Fix|this page]] for potential accessibility issues.
