@@ -4,25 +4,29 @@
 
 Hullo! My name is Mary! This is my personal site for some stream of consciousness writing and other creative hobbies like front-end web dev, crochet, and sewing.
 
-This site is a perpetual work in progress!
+<blockquote>This site is a perpetual work in progress!</blockquote>
 
 ## What's New
 ![[Changelog]]
 > [[Update Archive| Older Updates]]
 
 ## Latest Blog
-![[Social Media Presence Cleanup#Social Media Presence Cleanup]]
+<!--iframe-->
+[[Social Media Presence Cleanup#Social Media Presence Cleanup]]
+%%
 <iframe src="" title="blog-updates" width="100%" height="150em"
 onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+%%
 
 
 ## SideBar
 ### Status
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
-<script src="https://status.cafe/current-status.js?name=maryseph" defer></script>
+<!--status cafe widget-->
+%%<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div>
+<script src="https://status.cafe/current-status.js?name=maryseph" defer></script>%%
 
 ### Latest Updates
-![[Now#May 27, 2025]]
+[[Now#May 27th, 2025]]
 
 ### Stickers
 <a href="https://kalechips.net/responsive/index">![[8816-1.png|125]]</a> <a href="https://notbyai.fyi">![[view_on_electrnic_web.gif|125]]</a>
@@ -36,16 +40,22 @@ onload="this.before((this.contentDocument.body||this.contentDocument).children[0
 <!--Aromatic webclique-->
 <p align="center"><a href="http://aromatic.wings.nu/">aromatic</a> // mint</p>
 
+<!--a11ywebring-->
+<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+<p align="center"><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a> &#124;
+<a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a> &#124;
+<a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
+
 
 ### Links
 <a href="https://maryswritinggarden.wordpress.com/">![[icons8-wordpress-48.png|50]]</a> 
 <a href="https://github.com/MarySeph">![[github.png|50]]</a> 
 <a href="https://www.linkedin.com/in/mariajoseruizpiza/">![[linkedin.png|50]]</a>
 
+![[Footer#^footer]]
 
+---
+
+<!--iframe code-->
 <iframe src="" title="" width="100%" height="150em"
 onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-
-
-
-![[Footer#^footer]]

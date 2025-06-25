@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c47609a229774d59",
+        "id": "7c19be828f051a72",
         "type": "tabs",
         "children": [
           {
-            "id": "143d4d313d0ae02d",
+            "id": "bbafea1bf1b6e3e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
+                "file": "+ Home.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sitemap"
+              "title": "+ Home"
             }
           }
         ]
@@ -161,26 +161,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "143d4d313d0ae02d",
+  "active": "bbafea1bf1b6e3e6",
   "lastOpenFiles": [
-    "04 projects/Projects.md",
-    "Nav.md",
-    "Footer.md",
-    "Accessibility.md",
+    "05 links/Links.md",
     "+ Home.md",
+    "(DRAFT)Curriculum Vitae_Maria Jose Ruiz.md",
+    "04 projects/04.0 web dev/maryseph-site/About MarySeph.md",
+    "Footer.md",
+    "Colophon.md",
+    "Nav.md",
+    "Accessibility.md",
+    "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
+    "04 projects/Projects.md",
     "01 now/Now.md",
     "images/icons8-wordpress-48.png",
     "images/github.png",
     "images/linkedin.png",
-    "Credits.md",
     "04 projects/04.0 web dev/maryseph-site/Changelog.md",
     "05 links/Nature-inspiredArt.md",
-    "05 links/Links.md",
     "04 projects/04.1 crochet/Pouches for Device Chargers.md",
     "04 projects/04.1 crochet/Mesh Bag.md",
     "04 projects/04.1 crochet/Laundry Hamper.md",
     "04 projects/04.1 crochet/Hexagon Shirt.md",
-    "04 projects/04.0 web dev/maryseph-site/About MarySeph.md",
     "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "04 projects/04.0 web dev/WebDevCommonplace.md",
     "04 projects/Organizing my Buttons Stash (WIP).md",
@@ -192,7 +194,6 @@
     "images/nonbinary.png",
     "images/nonbinary.png.crdownload",
     "+ archive/(Archived) Footer.md",
-    "04 projects/04.0 web dev/maryseph-site/Sitemap.md",
     "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
     "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
     "04 projects/04.1 crochet",

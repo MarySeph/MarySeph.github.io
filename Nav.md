@@ -1,1 +1,1 @@
-[[+ Home]] | [[Now]] | [[Blog]] | [[Projects]] | [[Links]] ^nav
+[[+ Home]] | [[About MarySeph|About]] | [[Now]] | [[Blog]] | [[Projects]] | [[Links]] ^nav

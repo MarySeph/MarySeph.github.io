@@ -1,5 +1,5 @@
-[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [guestbook](https://maryseph.atabook.org/) | [[Credits]] | [RSS]()
- [♡](https://copyheart.org/) 2024 [[About MarySeph|Maryseph]] ^footer
+[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [guestbook](https://maryseph.atabook.org/) | [[Colophon]] | [RSS]()
+ [♡](https://copyheart.org/) 2025 Maryseph ^footer
 
 <p align="center">
 <a href="obsidian://open?vault=Marys-Creative-Corner&file=Home">Home</a> |

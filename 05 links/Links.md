@@ -19,12 +19,7 @@ a collection of leads to other parts of the world wide web.
 <!--<a href="">![[#]]</a>-->
 
 ## Web Rings
-<a href="https://cwr.beesbuzz.biz/redirect?dir=prev&from=https%3A%2F%2Fmaryseph.neocities.org%2F">&larr;</a> &#124; <a href="https://cwr.beesbuzz.biz/">Ex-Cohost Webring</a> &#124; <a href="https://cwr.beesbuzz.biz/redirect?from=https%3A%2F%2Fmaryseph.neocities.org%2F">&rarr;</a>
 
-<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
-<p><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a> &#124;
-<a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a> &#124;
-<a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
 
 ## Vibing
 

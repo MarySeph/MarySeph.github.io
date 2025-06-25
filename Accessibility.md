@@ -1,12 +1,13 @@
 ![[Nav#^nav]]
 
 # Accessibility Statement
-Last updated: October 29th, 2024
+> Last updated: June 21st, 2025
 
-This website has been designed to be responsible on mobile and desktop. See [[(archived) SitePlans#Stuff to Fix|this page]] for potential accessibility issues.
-
-There are some iframes that I'm not sure if they pose an issue. A search didn't give me an answer on that.
-
-**Disclaimer:** I don't use a screen reader or any other type of assistive device to surf the web. If there's any section of this website that is inaccessible, please contact me. I'm an indie web dev who's learning about web accessibility and would appreciate the feedback.
+Several steps have been taken to make this website accessible to all audiences:
+- Tested for responsiveness in small screens and keyboard navigation
+- Relative font sizes
+- All non-decorative images have alt text
+- Set language is English
+- All pages have semantic tags for easy navigation
 
 ![[Footer#^footer]]
