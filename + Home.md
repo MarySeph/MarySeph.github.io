@@ -29,7 +29,7 @@ onload="this.before((this.contentDocument.body||this.contentDocument).children[0
 [[Now#May 27th, 2025]]
 
 ### Stickers
-<a href="https://kalechips.net/responsive/index">![[8816-1.png|125]]</a> <a href="https://notbyai.fyi">![[view_on_electrnic_web.gif|125]]</a>
+<a href="https://notbyai.fyi">![[view_on_electrnic_web.gif|125]]</a>
 ![[98_you.png|125]]
 ![[barcode_web.gif|125]]
 ![[earth_flat_cats.png|125]]

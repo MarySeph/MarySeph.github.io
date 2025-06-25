@@ -32,5 +32,6 @@ assorted links to web dev stuff to try out.
 - [Mental Heal Circle](https://softheartclinic.neocities.org/mentalhealcircle) (mental health)
 - [Flowering](https://theflowering.neocities.org/) (flowers)
 - [Purrfect](https://theatregirl.net/cats/becomemember.php) (cats & kittens fanlisting)
+- [Journalring](http://nenrikido.neocities.org/webrings/journalring/)
 
 ![[Footer#^footer]]

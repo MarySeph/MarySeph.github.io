@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
-                "mode": "preview",
+                "file": "04 projects/04.0 web dev/WebDevCommonplace.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "WebDevCommonplace"
             }
           }
         ]
@@ -163,8 +163,9 @@
   },
   "active": "bbafea1bf1b6e3e6",
   "lastOpenFiles": [
-    "05 links/Links.md",
     "+ Home.md",
+    "+ archive/(archived) SitePlans.md",
+    "05 links/Links.md",
     "(DRAFT)Curriculum Vitae_Maria Jose Ruiz.md",
     "04 projects/04.0 web dev/maryseph-site/About MarySeph.md",
     "Footer.md",
@@ -186,7 +187,6 @@
     "+ archive/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "04 projects/04.0 web dev/WebDevCommonplace.md",
     "04 projects/Organizing my Buttons Stash (WIP).md",
-    "+ archive/(archived) SitePlans.md",
     "04 projects/04.1 crochet/GrannyHexagonBlanket (WIP).md",
     "04 projects/04.1 crochet/Crochet Bath Set Collection (WIP).md",
     "images/demisexual.png",

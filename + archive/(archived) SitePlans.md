@@ -7,6 +7,7 @@
 - create RSS feed.
 - a manifesto for the site's ethos.
 - Add notes about responsive web design.
+- remove ex-cohost webring code.
 ## Both
 - Create Blog
 - Create Digital Garden
