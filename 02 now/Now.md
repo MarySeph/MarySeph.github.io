@@ -3,12 +3,12 @@
 # Now
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
-**Reading**: Umineko no Naku Koro Ni Episode 3 Vol.1.
-**Writing**: The Music Learning Experience.
-**Crafting**: [[Hexagon Shirt]].
+**Reading**: *come back later*.
+**Writing**: *come back later*.
+**Crafting**: *come back later*.
 **Developing**: This site.
-**Learning**: GitHub Flow.
-**Feeling**: Satisfied.
+**Learning**: CSS with Code Academy.
+**Feeling**: Aimless.
 
 ## May 27th, 2025
 Oh my, oh my, am I glad to be back tweaking this site! I chose to put this site aside to focus on my studies and I'm proud to inform that after doing an internship, this enby will be the owner of a Bachelor degree! In Environmental Science! Woohoo! Haha.
@@ -37,7 +37,7 @@ Website-wise, I'm testing things behind the scenes like Kalechips' lisfauxgraphy
 
 On another topic, I finally took the leap to use extensions to keep myself accountable on what sites I spend the most time on my laptop. My phone has the Digital Wellbeing app and YourHour to limit the use of some apps. I wanted to bring that same mindfulness to my laptop. I am using [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) and [Superfocus](https://chromewebstore.google.com/detail/superfocus-time-tracker-b/dboceidahklphhjpfbpnicodnbkoiokn/reviews). The former is specifically for YT, hiding sections like Shorts, Mixes, Recommended, and Live Chat. Superfocus tackles a wider range of addictive social media apps. At the moment, it hides my YT Feed which is such a crazy change. Now I just have the Subscriptions page to watch content. This is doing something to my brain I don't know how to express. I'm definitely spending less time on the site which I'm putting on other places that are more meaningful (like this site!), or checking out older content from people I follow.
 
-Back to website stuff, I like having different things for the site to work on. [[(archived) SitePlans]] is divided into Structure, Design, Both, and Others so I have quite the breadth of things to tackle whenever I feel like and the site still feels "whole" (although the relative sizes are still screaming at me because the text looks HUGE on mobile but I dread CSS so I'm procrastinating hard on that). I decided to add the stuff I'm focusing one on the "Developing" section so I don't get overwhelmed/confused, haha.
+Back to website stuff, I like having different things for the site to work on. [[Site Plans]] is divided into Structure, Design, Both, and Others so I have quite the breadth of things to tackle whenever I feel like and the site still feels "whole" (although the relative sizes are still screaming at me because the text looks HUGE on mobile but I dread CSS so I'm procrastinating hard on that). I decided to add the stuff I'm focusing one on the "Developing" section so I don't get overwhelmed/confused, haha.
 
 ## December 16th, 2024
  Been a few days home. The weekend was eventful, in a good way. Wondering whether to make a manifesto of sorts about the web design values I want to follow in this site. I have been wanting to add a lot of cute things to my site and I don't know from what point indie web stuff is inaccessible so I feel like I need a guide before making big changes to this site for the sake of aesthetics.

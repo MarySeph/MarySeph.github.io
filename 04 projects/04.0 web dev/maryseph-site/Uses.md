@@ -14,7 +14,7 @@ A list of my [favorite/current tools and software](https://uses.tech/) for doing
 	- Aluminum 6.5mm
 	- Aluminum 9.0mm
 	- Plastic 19.0 mm
-[Add img]
+> [Add img]
 - Hair pins as stitch markers
 - Crochet yarn bowl
 - Misc. buttons

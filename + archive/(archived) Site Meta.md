@@ -3,7 +3,7 @@
 # Site Meta
 Table of Contents: [[(archived) Site Meta#Accessibility]] / [[(archived) Site Meta#Color schemes]]
 
-> [[Update Archive]] | [[Layouts]] | [[(archived) SitePlans]] | [[Uses]] | [[Changelog]]
+> [[Update Archive]] | [[Layouts]] | [[Site Plans]] | [[Uses]] | [[Changelog]]
 
 This site is being developed with [Obsidian](https://obsidian.md/)-flavored markdown then converted to HTML in VSCode before being uploaded to Neocities.
 

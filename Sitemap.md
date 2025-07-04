@@ -1,44 +1,51 @@
 ![[Nav#^nav]]
 
-# Site Map
+# Sitemap
 
 A simplified map of this site.
 
 ## [[+ Home]]
 
-## About
-- [[About MarySeph]]
+## [[About]]
+- [[Web Dev Commonplace]]
+- [[Colophon]]
+- [[Accessibility]]
+- [[Site Plans]]
 - [[Layouts]]
 - [[Update Archive]]
 - [[Sitemap]]
-- [[Uses]]
-- [[Site Manifesto]]
+- [RSS feed](#)
+
+~~- [[Uses]]~~
+~~- [[Site Manifesto]]~~
 
 ## [[Now]]
 
-## [[Blog]]
+## Blog
 - [[Social Media Presence Cleanup]]
 
-## [[Garden]]
+%%## Garden%%
 
 ## [[Projects]]
-
 ### WebDev
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 ### Crochet
+- [[Table Runner]]
+- [[Hexagon Shirt - Take 1]]
+- [[Pouches for Device Chargers]]
 - [[Mesh Bag]]
 - [[Orange Slice Coasters]]
 - [[Slouchy Robin Beanie]]
 - [[Crochet Bath Set Collection (WIP)]]
-- [[Granny Stitch String Bag]]
+- [[Granny Stitch Bag]]
 - [[2024XmasPresents |2024 Scrappy Yarn Christmas Presents]]
 - [[Laundry Hamper]] 
 - [[GrannyHexagonBlanket (WIP)|Stash-busting Granny Hexagon...Blanket? (WIP)]] 
 ### Misc.
 - [[Organizing my Buttons Stash (WIP)]] 
 
-## [Contact](https://maryseph.atabook.org/)
+## [Contact](#)
 
 ## [[Links]]
 - [[Nature-inspiredArt]]

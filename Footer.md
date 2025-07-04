@@ -1,4 +1,4 @@
-[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [guestbook](https://maryseph.atabook.org/) | [[Colophon]] | [RSS]()
+[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [contact]() | [[Colophon]] | [RSS]()
  [♡](https://copyheart.org/) 2025 Maryseph ^footer
 
 <p align="center">

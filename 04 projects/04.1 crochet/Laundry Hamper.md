@@ -25,7 +25,7 @@ Unfinished at the time of writing these notes, this project came to be as a pers
 
 I bought a set of six balls of color A and three balls of color B. It was also Thanksgiving holiday. I gave myself permission to take part in the consumerism culture for once (I didn't last year) but not really but one could make the argument this project wasn't *urgent.* Anyways.
 
-I'm almost done with the bag. I ended up using two balls of Color A and four balls of Color B. ...I forgot to add the strap to close it, HAHA! Okay, I just finished attaching the strap (feels different after sewing all the straps for the new version of the [[Granny Stitch String Bag]]). This is another why having a crafts notebook is VERY important! One forgets things... For the drawstring, I'm reusing a chord from another bag, maybe.
+I'm almost done with the bag. I ended up using two balls of Color A and four balls of Color B. ...I forgot to add the strap to close it, HAHA! Okay, I just finished attaching the strap (feels different after sewing all the straps for the new version of the [[Granny Stitch Bag]]). This is another why having a crafts notebook is VERY important! One forgets things... For the drawstring, I'm reusing a chord from another bag, maybe.
 
 I attached the strap on the wrong side. The mouth of the bag is supposed to be on the inside. I really don't feel like taking it off and reattaching so we going like this till I can't deal with it. The grey strap also greatly contrasts with the rest of the project. It bothers me. But I don't want to make another one so. Yeah! Great project, might fix some silly mistakes, might not. Thanks for reading!
 

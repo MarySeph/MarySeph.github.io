@@ -1,7 +1,7 @@
 # Site Plans
 ## Design
 - Apply relative sizes.
-- Apply semantic tags
+- Apply semantic tags.
 - Add space to the left of all text after a title (padding or margin?).
 ## Structure
 - create RSS feed.

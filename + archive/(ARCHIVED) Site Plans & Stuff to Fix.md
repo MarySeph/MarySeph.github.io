@@ -1,9 +1,9 @@
-## From [[(archived) SitePlans]]
+## From [[Site Plans]]
 ### Design
 - Site cursor (mention artist in [[Colophon]]).
 - Site favicon (mention artist in [[Colophon]]).
 - Modify link order in [[Footer]].
-- Modify [[(archived) SitePlans]], maybe rename to [[(archived) SitePlans]] and add to [[+ Home]]?
+- Modify [[Site Plans]], maybe rename to [[Site Plans]] and add to [[+ Home]]?
 	- Move links to source code and page template to [[(archived) Site Meta]].
 - updates--maybe make a page named [[Update Archive]] and put all previous dates there.
 - Maybe change some stuff in the header and footer. Bring down guestbook link to footer, add credits to footer. Add about link to footer.
@@ -30,15 +30,15 @@
 - Add [[Nav]] and [[Footer]] to [[Update Archive]].
 - Add link to guestbook in [[(archived) Site Meta#Accessibility]].
 - Add info about site deployment to [[(archived) Site Meta]].
-- Display unchecked [[(archived) SitePlans#Stuff to Fix]]; make archive for older ones.
+- Display unchecked [[Site Plans#Stuff to Fix]]; make archive for older ones.
 - Display only latest site update in [[+ Home]]; includes archiving old.
-- Display only unchecked [[(archived) SitePlans#Site Plans]]; make archive for older ones. [[(ARCHIVED) Site Plans & Stuff to Fix]]?
-- [[(archived) SitePlans#<h2 id="credits">Credits</h2>]] section.
+- Display only unchecked [[Site Plans#Site Plans]]; make archive for older ones. [[(ARCHIVED) Site Plans & Stuff to Fix]]?
+- [[Site Plans#<h2 id="credits">Credits</h2>]] section.
 - Create Crafts page
 ### Both
 - Minimalist layout.
 - Nav: Home, Now, Dev Log, Writing, Crafts, Guestbook (Contact), Links.
-- Website buttons wall (see [[WebDevCommonplace| below]])
+- Website buttons wall (see [[Web Dev Commonplace| below]])
 - Now page.
 - Site updates log.
 - Use [iframes](https://css-tricks.com/the-simplest-ways-to-handle-html-includes/): reuse HTML files in different places, nestle a file into another.
@@ -49,7 +49,7 @@
 - Template page
 - Guestbook
 - Website Button!
-- Try out Listfauxgraphy ([Summer Dream's version (OG)](https://summerstorms.me/Thoughts/Listfauxgraphy) & [Kalechips' version](https://kalechips.net/projects/code/listfauxgraphy)) with [[WebDevCommonplace]], [[(archived) SitePlans]], and [[(ARCHIVED) Site Plans & Stuff to Fix]].
+- Try out Listfauxgraphy ([Summer Dream's version (OG)](https://summerstorms.me/Thoughts/Listfauxgraphy) & [Kalechips' version](https://kalechips.net/projects/code/listfauxgraphy)) with [[Web Dev Commonplace]], [[Site Plans]], and [[(ARCHIVED) Site Plans & Stuff to Fix]].
 
 ## From [[(archived) Site Meta#Stuff to Fix]]
 - alt image descriptions

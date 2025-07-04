@@ -1,7 +1,7 @@
 ![[Nav#^nav]]
 
 # Links
-Table of Contents: [[Links#Web Rings]] / [[Links#Vibing]]
+Table of Contents: [[Links#Vibing|Vibing]]
 
 a collection of leads to other parts of the world wide web.
 
@@ -17,8 +17,6 @@ a collection of leads to other parts of the world wide web.
 
 <!--<a href="">![[#]]</a>-->
 <!--<a href="">![[#]]</a>-->
-
-## Web Rings
 
 
 ## Vibing

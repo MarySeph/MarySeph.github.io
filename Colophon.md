@@ -22,7 +22,7 @@ Most of the content is written in Obsidian. All pages start as Markdown files. T
 Folder structure is also tested in Obsidian as I've found it's a real pain to fix broken links on the HTML stage. Editing might occur in VSCode if I notice grammatical errors or something else I feel like adding.
 
 ## Site History
-> [[Update Archive]] | [[Layouts]]
+> [[Update Archive]] | [[Layouts]] | [[Site Plans]]
 
 This website was born in October 2024 and was hosted in Neocities till January 27th where I changed hosts to Github Pages.
 
@@ -54,8 +54,9 @@ The information in this website is intended for teen audiences and up mostly due
 Pending. Will probably switch to MIT License.
 
 ## Credits
-- [Kalechips](https://kalechips.net/index): [Reader mode template](https://kalechips.net/projects/layouts/) provided the base HTML. reference for meta pages, go to layout reference.
-- [Ghost Garden](https://ghostgarden.neocities.org/): table of contents format.
-- [Cursors 4 U](https://www.cursors-4u.com/cursor/2009/01/30/cute-blinking-blue-cat.html): Cute Blinking cat cursor (only blinks on Internet Explorer)
+- Icon by [add artist]()
+- [Reader mode](https://kalechips.net/projects/layouts/) (base template) and skip to content button by [Kalechips](https://kalechips.net/index)
+- Table of contents format bt [Ghost Garden](https://ghostgarden.neocities.org/).
+- Cute Blinking cat cursor (only blinks on Internet Explorer) by [Cursors 4 U](https://www.cursors-4u.com/cursor/2009/01/30/cute-blinking-blue-cat.html).
 
 ![[Footer#^footer]]
