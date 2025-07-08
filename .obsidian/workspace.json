@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f25476d5a2153cd7",
+            "id": "06685ad43517cc77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 about/About.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "About"
-            }
-          },
-          {
-            "id": "fc4ab1900f072df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 projects/Projects.md",
+                "file": "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,90 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "Curriculum Vitae_Maria Jose Ruiz"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7c929140e49494dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7e90ae662278f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 projects/04.0 web dev/WebDev.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "WebDev"
-            }
-          },
-          {
-            "id": "9e43b9576e76aa12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colophon.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Colophon"
-            }
-          },
-          {
-            "id": "3f56078588c3ca34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024 Site Updates"
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 294.5
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -240,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Home.md",
+                "file": "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of + Home"
+              "title": "Outline of Curriculum Vitae_Maria Jose Ruiz"
             }
           }
         ],
@@ -262,15 +158,16 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fc4ab1900f072df3",
+  "active": "06685ad43517cc77",
   "lastOpenFiles": [
-    "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
     "04 projects/Projects.md",
     "04 projects/04.0 web dev/WebDev.md",
     "Colophon.md",
+    "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
     "04 projects/04.0 web dev/maryseph-site/Layouts.md",
     "01 about/About.md",
     "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
