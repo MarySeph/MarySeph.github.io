@@ -5,7 +5,7 @@
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: *come back later*.
 **Writing**: *come back later*.
-**Crafting**: *come back later*.
+**Crafting**: [[Granny Fanny Pack]].
 **Developing**: This site.
 **Learning**: CSS with Code Academy.
 **Feeling**: Aimless.

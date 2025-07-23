@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
+                "file": "Colophon.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curriculum Vitae_Maria Jose Ruiz"
+              "title": "Colophon"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 256.5
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
+                "file": "Granny Fanny Pack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curriculum Vitae_Maria Jose Ruiz"
+              "title": "Outline of Granny Fanny Pack"
             }
           }
         ],
@@ -164,15 +164,19 @@
   },
   "active": "06685ad43517cc77",
   "lastOpenFiles": [
+    "04 projects/04.1 crochet/Granny Fanny Pack.md",
+    "02 now/Now.md",
+    "01 about/About.md",
+    "Accessibility.md",
+    "Colophon.md",
+    "+ Home.md",
+    "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
     "04 projects/Projects.md",
     "04 projects/04.0 web dev/WebDev.md",
-    "Colophon.md",
     "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
     "04 projects/04.0 web dev/maryseph-site/Layouts.md",
-    "01 about/About.md",
     "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
     "Sitemap.md",
-    "+ Home.md",
     "04 projects/04.0 web dev/Web Dev Commonplace.md",
     "04 projects/04.0 web dev/maryseph-site/Uses.md",
     "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
@@ -180,11 +184,8 @@
     "04 projects/04.1 crochet/GrannyHexagonBlanket (WIP).md",
     "04 projects/04.1 crochet/Granny Stitch Bag.md",
     "Footer.md",
-    "Accessibility.md",
     "04 projects/04.1 crochet/Table Runner.md",
-    "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
     "01 about",
-    "02 now/Now.md",
     "05 links/Links.md",
     "04 projects/04.0 web dev/maryseph-site/Changelog.md",
     "04 projects/04.1 crochet/Pouches for Device Chargers.md",
@@ -193,7 +194,6 @@
     "images/github.png",
     "images/linkedin.png",
     "05 links/Nature-inspiredArt.md",
-    "04 projects/04.1 crochet/Mesh Bag.md",
     "images/demisexual.png",
     "images/demisexual.png.crdownload",
     "images/nonbinary.png",
