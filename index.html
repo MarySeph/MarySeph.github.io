@@ -9,16 +9,17 @@
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
 </head>
-<body>      
-<div id="container">
+<body id="container">
+
+<div id="skip"> <a href="#content">Skip to content</a> </div>
 
 <header id="header">
 <nav>
     <iframe src="nav.html" title="nav"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 </nav>
-</header>
-        
+
+</header>        
 <main id="content">
     <h1>Welcome to my site!</h1>
     <p>Hullo! My name is Mary! 
@@ -35,12 +36,13 @@
 <iframe src="/backtotop.html" title="back to top"
     onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 
-<!--Footer section-->
-<iframe src="/footer.html" title="footer"
-    onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-
 </main>
 
-</div>        
+<footer>
+    <!--Footer section-->
+    <iframe src="/footer.html" title="footer"
+        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+</footer>
+
 </body>
 </html>

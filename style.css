@@ -56,6 +56,24 @@ body {
 	letter-spacing: .35px;
 }
 
+#skip a {
+	position: absolute;
+	display: inline-block;
+	left: 0px;
+	top: -1000px;
+	overflow: hidden;
+	transition: top 0.5s ease;
+	background: var(--background);
+	color: var(--link);
+	z-index: 1000;
+	padding: 5px;
+}
+
+#skip a:focus {
+	top: 0;
+	transition: top 0.5s ease;
+}
+
 /* Header */
 
 header {
@@ -223,11 +241,10 @@ main pre {
 	overflow:auto;
 }
 
-main footer {
-	text-align:center;
+footer {
+	text-align: center;
 	border-top: 0.5px solid var(--hr);
-	margin-top:10px;
-	padding:10px;
+	padding: 0.625rem;
 }
 
 /* #site-updates {
