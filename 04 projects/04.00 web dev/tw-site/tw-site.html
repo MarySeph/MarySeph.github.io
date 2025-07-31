@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mary Seph | Crafts: Web Dev > Unnamed TiddlyWiki Site</title>
+    <title>Mary Seph | Projects: Web Dev > Unnamed TiddlyWiki Site</title>
     <meta name="author" content="MarySeph">
     <meta name="description" content="a new website">
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
 </head>
-<body>
-<div id="container">
+<body id="container">
+
+<div id="skip"> <a href="#content">Skip to content</a> </div>
     
 <header id="header">
     <nav>
@@ -39,10 +40,12 @@
     <iframe src="/backtotop.html"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
     
-    <iframe src="/footer.html"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+    
 </main>
 
-</div>
+<footer>
+    <iframe src="/footer.html"
+        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+</footer>
 </body>
 </html>

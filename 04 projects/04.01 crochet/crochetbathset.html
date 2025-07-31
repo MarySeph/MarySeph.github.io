@@ -9,8 +9,8 @@
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
 </head>
-<body>
-<div id="container">
+<body id="container">
+
 <header id="header">
     <nav>
         <iframe src="/nav.html" title="navigation"
@@ -151,11 +151,12 @@
 -->
     <iframe src="/backtotop.html" title="back to top"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    
-    <iframe src="/footer.html" title="footer"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
 </main>
 
-</div>
+<footer>
+    <iframe src="/footer.html" title="footer"
+        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+</footer>
 </body>
 </html>
