@@ -42,7 +42,12 @@
 
 /* ------ The rest of the code starts here ------- */
 
-* { margin: 0; padding: 0; transition:0.5s ease;}
+* { 
+	margin: 0; 
+	padding: 0; 
+	transition:0.5s ease;
+	box-sizing: border-box;
+}
 
 #container {
 	margin: 20px auto;

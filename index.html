@@ -14,50 +14,68 @@
 <div id="skip"><a href="#content">Skip to content</a> </div>
 
 <header id="header">
-<nav>
-    <iframe src="nav.html" title="nav"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-</nav>
+    <nav>
+        <iframe src="nav.html" title="nav"
+            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+    </nav>
+</header>  
 
-</header>        
 <main id="content">
     <h1>Welcome to my site!</h1>
     <p>Hullo! My name is Mary! 
         This is my personal site for some stream of consciouness writing, some spontaneous and other more serious, a digital garden, and creative hobbies likes front-end web dev, crochet, and sewing.</p>
     <blockquote>This site is a perpetual work in progress.</blockquote>
     
-    <div id="changelog">
+    <article id="changelog">
         <h2>What's New</h2>
-            <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="changelog" scroll="true"
+            <div>
+                <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="changelog" scroll="true"
                 onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+            </div>
         <p><a href="/04 projects/04.00 web dev/maryseph-site/updatearchive.html">Older updates</a></p>
-    </div>
+    </article>
 
-    <div id="blog">
+    <article id="blog">
         <h2>Latest Blog</h2>
-        <p><a href="/02 blog/03 longform/smp-cleanup.html">Social Media Cleanup</a></p>
-    </div>
+            <div>
+                <ul>
+                    <li><a href="/02 blog/03 longform/smp-cleanup.html">Social Media Cleanup</a></li>
+                </ul>
+            </div>
+    </article>
 
     <aside id="sidebar">
-        <h3>Status</h3>
-        <div id="statuscafe">
-            <div id="statuscafe-username"></div>
-            <div id="statuscafe-content"></div>
-        </div>
-        <script src="https://status.cafe/current-status.js?name=maryseph" defer></script>
+        <article id="status">
+            <h3>Status</h3>
+                <div id="statuscafe">
+                    <div id="statuscafe-username"></div>
+                    <div id="statuscafe-content"></div>
+                </div>
+                <script src="https://status.cafe/current-status.js?name=maryseph" defer>
+                </script>
+        </article>
 
-
-        <h3>Latest Updates</h3>
-        <p><a href="/02 now/now.html">May 27th, 2025</a></p>
-
-        <h3>Stickers</h3>
-        <img src="/images/98_you.png">
-        <img src="/images/view_on_electrnic_web.gif">
-        <img src="/images/barcode_web.gif">
-        <img src="/images/earth_flat_cats.png">
-        <img src="/images/manatee.gif">
-        <img src="/images/old_school.gif">
-        <img src="/images/nonbinary.png">
+        <article id="updates">
+            <h3>Latest Updates</h3>
+            <div>
+                <ul>
+                    <li><a href="/02 now/now.html">May 27th, 2025</a></li>
+                </ul>
+            </div>
+        </article>
+    
+        <article id="stickers">
+            <h3>Stickers</h3>
+                <div>
+                    <img src="/images/98_you.png">
+                    <img src="/images/view_on_electrnic_web.gif">
+                    <img src="/images/barcode_web.gif">
+                    <img src="/images/earth_flat_cats.png">
+                    <img src="/images/manatee.gif">
+                    <img src="/images/old_school.gif">
+                    <img src="/images/nonbinary.png">
+                </div>
+        </article>
 
         <!--Aromatic webclique-->
         <p align="center"><a href="http://aromatic.wings.nu/">aromatic</a> // mint</p>
