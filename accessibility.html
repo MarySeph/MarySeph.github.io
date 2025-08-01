@@ -3,16 +3,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mary Seph | [Insert Title]</title>
-    <meta name="author" content="MarySeph">
+    <title>Mary Seph | Accessibility Statement</title>
+    <meta name="author" content="Arima Mary">
     <meta name="description" content="a new website">
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-    <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/yuu-icon-2.png" />
 </head>
 <body id="container">
-
 <div id="skip"> <a href="#content">Skip to content</a> </div>
-    
 <header id="header">
     <nav>
         <iframe src="/nav.html" title="navigation"
@@ -21,27 +19,26 @@
 </header>
 
 <main id="content">
-    <h1>[H1 title]</h1>
-    <h2>[H2 title]</h2>
-    <h3>[H3 title]</h3>
-    <h4>[H4 title]</h4>
+    <h1>Accessibility Statement</h1>
+    <blockquote>Last updated: June 21st, 2025</blockquote>
+    <p>Several steps have been taken to make this website accessible to all audiences:</p>
+        <ul>
+            <li>Tested for responsiveness in small screens and keyboard navigation</li>
+            <li>Relative font sizes</li>
+            <li>All non-decorative images have alt text</li>
+            <li>Set language is English</li>
+            <li>All pages have semantic tags for easy navigation</li>
+        </ul>
 
-    <p>a paragraph.</p>
-
-    <ul>an unordered list
-        <li>unordered list item</li>
-        <li><a href="">unordered list item with link</a></li>
-    </ul>
-
-
-    <iframe src="/backtotop.html" title="back to top"
+    <iframe id="backtotop" src="/backtotop.html" title="back to top"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
     
 </main>
 
 <footer>
-    <iframe src="/footer.html" title="footer"
+    <iframe id="footer" src="/footer.html" title="footer"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 </footer>
+
 </body>
 </html>

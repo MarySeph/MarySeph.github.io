@@ -9,38 +9,112 @@
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
 </head>
-<body>      
-<div id="container">
+<body id="container">
+
+<div id="skip"><a href="#content">Skip to content</a> </div>
 
 <header id="header">
-<nav>
-    <iframe src="nav.html" title="nav"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-</nav>
-</header>
-        
+    <nav>
+        <iframe src="nav.html" title="nav"
+            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+    </nav>
+</header>  
+
 <main id="content">
     <h1>Welcome to my site!</h1>
     <p>Hullo! My name is Mary! 
         This is my personal site for some stream of consciouness writing, some spontaneous and other more serious, a digital garden, and creative hobbies likes front-end web dev, crochet, and sewing.</p>
-    <p>This site is a perpetual work in progress.</p>
+    <blockquote>This site is a perpetual work in progress.</blockquote>
     
-    <div id="changelog">
-        <h2>Changelog</h2>
-            <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="site updates" scroll="true"
+    <article id="changelog">
+        <h2>What's New</h2>
+            <div>
+                <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="changelog" scroll="true"
                 onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    </div>
+            </div>
+        <p><a href="/04 projects/04.00 web dev/maryseph-site/updatearchive.html">Older updates</a></p>
+    </article>
+
+    <article id="blog">
+        <h2>Latest Blog</h2>
+            <div>
+                <ul>
+                    <li><a href="/02 blog/03 longform/smp-cleanup.html">Social Media Cleanup</a></li>
+                </ul>
+            </div>
+    </article>
+
+    <aside id="sidebar">
+        <article id="status">
+            <h3>Status</h3>
+                <div id="statuscafe">
+                    <div id="statuscafe-username"></div>
+                    <div id="statuscafe-content"></div>
+                </div>
+                <script src="https://status.cafe/current-status.js?name=maryseph" defer>
+                </script>
+        </article>
+
+        <article id="updates">
+            <h3>Latest Updates</h3>
+            <div>
+                <ul>
+                    <li><a href="/02 now/now.html">May 27th, 2025</a></li>
+                </ul>
+            </div>
+        </article>
+    
+        <article id="stickers">
+            <h3>Stickers</h3>
+                <div>
+                    <img src="/images/98_you.png">
+                    <img src="/images/view_on_electrnic_web.gif">
+                    <img src="/images/barcode_web.gif">
+                    <img src="/images/earth_flat_cats.png">
+                    <img src="/images/manatee.gif">
+                    <img src="/images/old_school.gif">
+                    <img src="/images/nonbinary.png">
+                </div>
+        </article>
+
+        <!--Aromatic webclique-->
+        <p align="center"><a href="http://aromatic.wings.nu/">aromatic</a> // mint</p>
+        
+        <!--a11ywebring-->
+        <nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+            <p align="center"><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a> &#124;
+                <a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a> &#124;
+                <a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
+            </p>
+        </nav>
+        
+        <!--Webmaster Webring-->
+        <a href="https://webmasterwebring.netlify.app?maryseph-previous">&larr;</a> <a
+            href="https://webmasterwebring.netlify.app">Webmaster Webring</a> <a
+            href="https://webmasterwebring.netlify.app?maryseph-random"></a> <a
+            href="https://webmasterwebring.netlify.app?maryseph-next">&rarr;</a>
+        
+        <!--Journalring-->
+        <journal-ring icon="blue"></journal-ring>
+        <script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script>
+
+        <h3>Links</h3>
+        <a href="https://maryswritinggarden.wordpress.com/"><img src="/images/icons8-wordpress-48.png" alt="Wordpress"></a>
+        <a href="https://github.com/MarySeph"><img src="/images/github.png" alt="Github"></a>
+        <a href="https://www.linkedin.com/in/mariajoseruizpiza/" alt="Linkedin"><img src="/images/linkedin.png"></a>
+
+    </aside>
 
 <!--Back to Top-->
 <iframe src="/backtotop.html" title="back to top"
     onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 
-<!--Footer section-->
-<iframe src="/footer.html" title="footer"
-    onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-
 </main>
 
-</div>        
+<footer>
+    <iframe src="/footer.html" title="footer"
+        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+</footer>
+
 </body>
 </html>
