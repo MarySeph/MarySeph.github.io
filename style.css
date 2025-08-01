@@ -50,8 +50,8 @@
 }
 
 #container {
-	margin: 20px auto;
-	padding: 20px;
+	margin: 1.072em auto;
+	padding: 1.072em;
 }
 
 body {
@@ -64,14 +64,14 @@ body {
 #skip a {
 	position: absolute;
 	display: inline-block;
-	left: 0px;
-	top: -1000px;
+	left: 0em;
+	top: -53.58em;
 	overflow: hidden;
 	transition: top 0.5s ease;
 	background: var(--background);
 	color: var(--link);
 	z-index: 1000;
-	padding: 5px;
+	padding: 0.268em;
 }
 
 #skip a:focus {
@@ -96,17 +96,20 @@ header ul {
 
 header li {
 	display: inline-block;
-	margin: 0px 10px 0px 0px;
+	margin: 0em 0.536em 0em 0rem;
 	font-family: Georgia, Times New Roman, serif;
 }
 
 
-img { margin:5px; max-width:80%; }
+img { 
+	margin:0.268em; 
+	max-width:80%; 
+}
 
 
 
 main {
-	padding:20px;
+	padding:1.072em;
 	width:90%;
 	max-width:800px;
 	margin:auto;
@@ -125,39 +128,39 @@ li a {
 }
 
 p {
-	margin:10px 0px 10px 0px;
+	margin:0.536em 0em 0.536em 0em;
 	line-height:1.5;
 }
 
 main h1 {
-	font:26pt Georgia, Times New Roman, serif;
-	margin:5px 0 5px 0;
+	font: 1.857em Georgia, Times New Roman, serif;
+	margin:0.268em 0 0.268em 0;
 }
 
 main h2 {
-	margin:10px 0 10px 0;
-	font:23pt Georgia, Times New Roman, serif;
+	margin:0.536em 0 0.536em 0;
+	font: 1.643em Georgia, Times New Roman, serif;
 }
 
 main h3 {
-	margin:5px 0 5px 0;
-	font: 18.5pt Georgia, Times New Roman, serif;
+	margin:0.268em 0 0.268em 0;
+	font: 1.321em Georgia, Times New Roman, serif;
 }
 
 main h4 {
-	font:13pt Georgia, Times New Roman, serif;
+	font: 0.929em Georgia, Times New Roman, serif;
 	font-style:italic;
-	margin:5px 0 20px 0;
+	margin:0.268em 0 1.072em 0;
 }
 
 main input, textarea, select, button { 
 	background: var(--formbg);  
 	color: var(--formcolor);
-	font: 12pt sans-serif; 
-	border: 1px solid var(--hr); 
-	padding: 5px; 
-	margin: 5px;
-	border-radius:5px;
+	font: 0.857em sans-serif; 
+	border: 0.054em solid var(--hr); 
+	padding: 0.268em; 
+	margin: 0.268em;
+	border-radius:0.268em;
 }
 
 main textarea {
@@ -165,7 +168,7 @@ main textarea {
 }
 
 input[type="submit"], input[type="reset"] {
-	font-size:13pt;
+	font-size: 0.929em;
 	background:var(--accentbg);
 }
 
@@ -175,20 +178,20 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 }
 
 main table {
-	margin:10px auto 10px auto;
-	padding:5px;
+	margin:0.536em auto 0.536em auto;
+	padding:0.268em;
 	width:100%;
 	border-collapse:collapse;
 }
 
 main th {
-	border-bottom:1px solid var(--hr);
-	padding:5px;
+	border-bottom: 0.054em solid var(--hr);
+	padding:0.268em;
 	text-align:left;
 }
 
 main td {
-	padding:3px;
+	padding: 0.161em;
 }
 
 main tr:nth-child(2n) {
@@ -197,52 +200,52 @@ main tr:nth-child(2n) {
 
 main ul, ol { 
 	list-style-position: outside;
-	margin: 8px 0 8px 20px;
+	margin: 0.429em 0 0.429em 1.072em;
 }
 
 main li {
-	margin:5px 0 5px 0;
+	margin:0.268em 0 0.268em 0;
 	line-height:1.5;
 }
 
 main ul li ul, main ol li ol {
-	margin-left:15px;
+	margin-left:0.804em;
 }
 
 main blockquote {
-	padding:10px;
-	border-left:10px solid var(--hr);
+	padding:0.536em;
+	border-left:0.536em solid var(--hr);
 	background:var(--accentbg);
 }
 
 main blockquote cite {
-	font-size:11pt;
+	font-size: 0.786em;
 	position:relative;
 	right:0;
 }
 
 main summary {
 	cursor:pointer;
-	margin: 5px 0px 5px 0px;
+	margin: 0.268em 0em 0.268em 0em;
 }
 
 main details {
-	padding:10px;
+	padding:0.536em;
 	background:var(--accentbg);
-	margin:5px 0 5px 0;
-    border-radius:5px;
+	margin:0.268em 0 0.268em 0;
+    border-radius:0.268em;
 }
 
 main hr {
-	border:0.5px solid var(--hr);
-    margin:20px auto 20px auto;
+	border:0.0.268em solid var(--hr);
+    margin:1.072em auto 1.072em auto;
 }
 
 main pre {
-	padding:10px;
+	padding:0.536em;
 	background:var(--accentbg);
-	margin:10px auto 10px auto;
-	border-radius:5px;
+	margin:0.536em auto 0.536em auto;
+	border-radius:0.268em;
 	overflow:auto;
 }
 
@@ -265,7 +268,7 @@ footer {
 #statuscafe {
 	padding: .5em;
 	background-color: azure;
-	border: 1px solid midnightblue;
+	border: 0.054em solid midnightblue;
 }
 
 #statuscafe-username {
