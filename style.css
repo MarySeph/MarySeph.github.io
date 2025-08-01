@@ -82,7 +82,7 @@ body {
 /* Header */
 
 header {
-	font-size: 1.3em;
+	font-size: 1.52rem;
 	text-align: center;
 	font-style: italic;
 }
@@ -111,7 +111,7 @@ img {
 main {
 	padding:1.072em;
 	width:90%;
-	max-width:800px;
+	max-width:50rem;
 	margin:auto;
 }
 
@@ -256,12 +256,12 @@ footer {
 }
 
 /* #site-updates {
-	max-height: 300px;
+	max-height: 18.75rem;
 	overflow: auto;
 	scrollbar-width: thin;
 	scrollbar-color: var(--formbg) var(--link);
-	font-size: 17px;
-	padding: 20px;
+	font-size: 1.0625rem;
+	padding: 1.25rem;
 	border-style: dashed;
 }*/
 
