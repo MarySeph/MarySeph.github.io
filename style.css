@@ -265,36 +265,54 @@ footer {
 	border-style: dashed;
 }*/
 
-/* Status Cafe */
+/* Classes (dots) */
+
+.centered {
+	text-align: center;
+}
+
+.btn a {
+	padding: 0.6em;
+	text-decoration: none;
+	border: 0.1em solid var(--hr);
+	display: inline-block;
+	margin: 0.3em auto;
+}
+
+.naked{
+	text-decoration: none;
+}
+
+/* IDs (hash) */
 
 #statuscafe {
 	padding: .5em;
-	background-color: azure;
-	border: 0.054em solid midnightblue;
+	background-color: var(--accentbg);
+	border: 0.054em dashed var(--hr);
 }
 
 #statuscafe-username {
-	margin-bottom: .5em;
+	margin-bottom: 0.5em;
 }
 
 #statuscafe-content {
 	margin: 0 1em 0.5em 1em;
 }
 
-#bumper-stickers{
+#bumper-stickers {
 	max-width: fit-content;
 	scale: 0.7;
 }
 
 #other-stickers {
 	max-width: fit-content;
-	scale: 1;
 }
 
-.outlink-imgs{
+.outlink-imgs {
 	max-width: fit-content;
 	scale: 1.25;
 }
+
 
 @media (prefers-color-scheme: dark) {
 
