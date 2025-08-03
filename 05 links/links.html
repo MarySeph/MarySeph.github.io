@@ -9,8 +9,10 @@
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
 </head>
-<body>
-<div id="container">
+<body id="container">
+
+<div id="skip"> <a href="#content">Skip to content</a> </div>
+
 <header id="header">
     <nav>
         <iframe src="/nav.html" title="navigation"
@@ -20,46 +22,32 @@
 
 <main id="content">
     <h1>Links</h1>
-    <p>Table of Contents: <a href="#webrings">Web Rings</a> / <a href="#vibes">Vibing</a> </p>
-
-    <p>a collection of leads to other parts of the world wide web.</p>
-
-<ul>
-    <li> <a href="https://www.youtube.com/@rajivsurendra">Rajiv Surendra</a> - do you like, no LOVE HGTV and other TV
-        channels/programs on domestic arts? This channel is basically that. bonus points
-        for making me want to become a better human being. sure few online content can do <i>that</i>.</li>
-    <li> <a href="https://www.youtube.com/@shar">shar</a> - digital artist and animator from the Philippines who has
-        some super cute
-        videos.</li>
-    <li> <a href="https://www.youtube.com/@AbroadinJapan">Abroad in Japan</a> - British man living in Japan who has been
-        making TV-quality
-        travel blogs for about ten years.</li>
-    <li> <a href="https://www.youtube.com/@SpilledInkyt">Spilled Ink</a> - art channel of two professional digital
-        artists exploring
-        physical art mediums.</li>
-    <li> <a href="https://www.twitch.tv/zeldacw">ZeldaZW</a> - cozy digital artist who streams while drawing.</li>
-    <li><a href="https://dawnahwriting.wordpress.com/">Dawn H.</a> - Wordpress website from an online friend. She's
-        currently revising and posting her stories from her college days.</li>
-    <li><a href="https://tapas.io/MrCircusPapa">Mr. Circus Papa</a> - horror comic artist. Their artstyle may be cute
-        but their stories portray heavy topics without pulling any punches.</li>
-    <li><a href="https://gbpatch.itch.io/">GBPatch</a> - visual novel game dev studio of the cozy and queer variety.
-        "Inclusive" in the widest sense of the word. </li>
-    <li><a href="https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g">Linfamy</a> - Japenese-American that covers
-        Japanese history and folktales. heavy focus on the female experience and the business of
-        pleasure.</li>
-</ul>
-
-    <h2 id="webrings">Web Rings</h2>
-            <a href="https://cwr.beesbuzz.biz/redirect?dir=prev&from=https%3A%2F%2Fmaryseph.neocities.org%2F">&larr;</a> &#124; <a
-        href="https://cwr.beesbuzz.biz/">Ex-Cohost Webring</a> &#124; <a
-        href="https://cwr.beesbuzz.biz/redirect?from=https%3A%2F%2Fmaryseph.neocities.org%2F">&rarr;</a>
-
-<nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
-    <p><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a> &#124;
-    <a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a> &#124;
-    <a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
-    </p>
-</nav>
+        <p>Table of Contents: <a href="#vibes">Vibing</a> </p>
+        <p>a collection of leads to other parts of the world wide web.</p>
+        <ul>
+            <li> <a href="https://www.youtube.com/@rajivsurendra">Rajiv Surendra</a> - do you like, no LOVE HGTV and other TV
+                channels/programs on domestic arts? This channel is basically that. bonus points
+                for making me want to become a better human being. sure few online content can do <i>that</i>.</li>
+            <li> <a href="https://www.youtube.com/@shar">shar</a> - digital artist and animator from the Philippines who has
+                some super cute
+                videos.</li>
+            <li> <a href="https://www.youtube.com/@AbroadinJapan">Abroad in Japan</a> - British man living in Japan who has been
+                making TV-quality
+                travel blogs for about ten years.</li>
+            <li> <a href="https://www.youtube.com/@SpilledInkyt">Spilled Ink</a> - art channel of two professional digital
+                artists exploring
+                physical art mediums.</li>
+            <li> <a href="https://www.twitch.tv/zeldacw">ZeldaZW</a> - cozy digital artist who streams while drawing.</li>
+            <li><a href="https://dawnahwriting.wordpress.com/">Dawn H.</a> - Wordpress website from an online friend. She's
+                currently revising and posting her stories from her college days.</li>
+            <li><a href="https://tapas.io/MrCircusPapa">Mr. Circus Papa</a> - horror comic artist. Their artstyle may be cute
+                but their stories portray heavy topics without pulling any punches.</li>
+            <li><a href="https://gbpatch.itch.io/">GBPatch</a> - visual novel game dev studio of the cozy and queer variety.
+                "Inclusive" in the widest sense of the word. </li>
+            <li><a href="https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g">Linfamy</a> - Japenese-American that covers
+                Japanese history and folktales. heavy focus on the female experience and the business of
+                pleasure.</li>
+        </ul>
 
     <h2 id="vibes">Vibing</h2>
         <ul>
@@ -68,13 +56,15 @@
             Some sick EDM and violin songs from the visual novel.</li>
         </ul>
 
-    <iframe src="/backtotop.html" title="back to top"
+<iframe src="/backtotop.html" title="back to top"
         onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    
-    <iframe src="/footer.html" title="footer"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
 </main>
 
-</div>
+<footer>
+    <iframe src="/footer.html" title="footer"
+        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+</footer>
+
 </body>
 </html>
