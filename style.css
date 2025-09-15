@@ -57,7 +57,7 @@
 body {
 	color: var(--color);
 	background: var(--background);
-	font: 14pt sans-serif;
+	font: 18px sans-serif;
 	letter-spacing: .35px;
 }
 
@@ -82,39 +82,40 @@ body {
 /* Header */
 
 header {
-	font-size: 1.52rem;
+	font-family: sans-serif;
+	font-size: 1.55rem;
 	text-align: center;
-	font-style: italic;
 }
 
-/* Header links */
-
 header ul {
-	list-style: none;
 	margin: 0;
 }
 
 header li {
 	display: inline-block;
 	margin: 0em 0.536em 0em 0rem;
-	font-family: Georgia, Times New Roman, serif;
+	font-family: Georgia, 'Times New Roman', serif;
+	border-bottom: 1px dashed var(--link);
+	font-weight: 500;
 }
 
-
-img { 
-	margin: 0.268em; 
-	max-width: 80%; 
+header .home {
+	text-decoration: none;
 }
 
-main {
-	padding: 1.072em;
-	width: 90%;
-	max-width: 50rem;
-	margin: auto;
+header a:hover{
+	font-style: italic;
+}
+
+/* Universal Styles */
+
+p {
+	margin: 0.536em 0em 0.536em 0em;
+	line-height: 1.5;
 }
 
 a {
-	color:var(--link);
+	color: var(--link);
 }
 
 a:hover {
@@ -122,15 +123,39 @@ a:hover {
 }
 
 li a {
-	text-decoration:none;
+	text-decoration: none;
 }
 
-p {
-	margin: 0.536em 0em 0.536em 0em;
-	line-height: 1.5;
+img { 
+	margin: 0.268em; 
+	max-width: 80%; 
 }
 
-/* Headings style */
+input[type="submit"],
+input[type="reset"] {
+	font-size: 0.929em;
+	background: var(--accentbg);
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+	background: var(--hr);
+	cursor: pointer;
+}
+
+time{
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* Main area Styles */
+
+main {
+	padding: 1.072em;
+	width: 90%;
+	max-width: 50rem;
+	margin: auto;
+}
 
 main h1 {
 	font: 1.857em Georgia, Times New Roman, serif;
@@ -167,16 +192,6 @@ main textarea {
 	width:90%;
 }
 
-input[type="submit"], input[type="reset"] {
-	font-size: 0.929em;
-	background:var(--accentbg);
-}
-
-input[type="submit"]:hover, input[type="reset"]:hover {
-	background:var(--hr);
-	cursor:pointer;
-}
-
 main table {
 	margin:0.536em auto 0.536em auto;
 	padding:0.268em;
@@ -205,7 +220,7 @@ main ul, ol {
 
 main li {
 	margin:0.268em 0 0.268em 0;
-	line-height:1.5;
+	line-height: 1.5;
 }
 
 main ul li ul, main ol li ol {
@@ -249,12 +264,6 @@ main pre {
 	overflow:auto;
 }
 
-footer {
-	text-align: center;
-	border-top: 0.5px solid var(--hr);
-	padding: 0.625rem;
-}
-
 /* #site-updates {
 	max-height: 18.75rem;
 	overflow: auto;
@@ -265,7 +274,11 @@ footer {
 	border-style: dashed;
 }*/
 
-/* Classes (dots) */
+/* Classes */
+
+.no-bullets {
+	list-style-type: "";
+}
 
 .centered {
 	text-align: center;
@@ -283,7 +296,7 @@ footer {
 	text-decoration: none;
 }
 
-/* IDs (hash) */
+/* IDs */
 
 #statuscafe {
 	padding: .5em;
@@ -313,6 +326,16 @@ footer {
 	scale: 1.25;
 }
 
+
+/* Footer */
+
+footer {
+	text-align: center;
+	border-top: 0.5px solid var(--hr);
+	padding: 0.625rem;
+}
+
+/* Dark Theme-only Styles */
 
 @media (prefers-color-scheme: dark) {
 
