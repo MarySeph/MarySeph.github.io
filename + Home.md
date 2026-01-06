@@ -2,7 +2,7 @@
 
 # Welcome to my site!
 
-Hullo! My name is Mary! This is my personal site for some stream of consciousness writing and other creative hobbies like front-end web dev, crochet, and sewing.
+Hi there, my name is Mary! This is my personal website for some stream of consciousness writing and other creative hobbies like front-end web dev, crochet, and sewing.
 
 <blockquote>This site is a perpetual work in progress!</blockquote>
 
@@ -54,9 +54,9 @@ onload="this.before((this.contentDocument.body||this.contentDocument).children[0
 <journal-ring icon="blue"></journal-ring><script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script> 
 
 ### Links
-<a href="https://maryswritinggarden.wordpress.com/"><img src="/images/icons8-wordpress-48.png" alt="Wordpress"></a> 
-<a href="https://github.com/MarySeph"><img src="/images/github.png" alt="Github"></a> 
-<a href="https://www.linkedin.com/in/mariajoseruizpiza/" alt="Linkedin"><img src="/images/linkedin.png"></a>
+<a href="https://maryswritinggarden.wordpress.com/"><img src="/images/icons8-wordpress-48.png" alt="Wordpress" width="50px"></a> 
+<a href="https://github.com/MarySeph"><img src="/images/github.png" alt="Github" width="50px"></a> 
+<a href="https://www.linkedin.com/in/mariajoseruizpiza/" alt="Linkedin"><img src="/images/linkedin.png" width="50px"></a>
 
 ![[Footer#^footer]]
 

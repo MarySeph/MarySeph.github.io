@@ -2,13 +2,28 @@
 
 # Now
 
-this page is about what I'm up to right [meow](https://nownownow.com/about).
+this page is about what I'm up to right [now](https://nownownow.com/about).
 **Reading**: *come back later*.
 **Writing**: *come back later*.
-**Crafting**: [[Granny Fanny Pack]].
+**Crafting**: *come back later*.
 **Developing**: This site.
-**Learning**: CSS with Code Academy.
-**Feeling**: Aimless.
+**Learning**: How to use Mastodon.
+**Feeling**: Confident.
+
+## January 6th, 2026
+So, it's been a while. More than half a year actually. I'm thinking of moving these posts to an upcoming blog I want to develop.
+
+Having a bit of trouble thinking where to start. I continue to be back home in Latin America. I managed to secure an internship which starts next weeks, of which after successfully completing I will have my undergrad degree, yay! Not so yay considering the job prospects of my intended career but I'm actually more hopeful now than before. And that's in no small part of me joining the Fediverse.
+
+Details are secret but I have a [Mastodon account]()! It's the second iteration of it because at first I signed up for indieweb.social and the folks I was finding weren't relevant to my interests so I created another account in [planetearth.social](https://planetearth.social/). Just today I posted my introduction and got a few follow requests. I'm having fun!
+
+So the world is devolving into humanity's worst fears and the danger is a bit too close to home for me to not feel threatened. The year has started quite intense. That's all I'll say about current events for now.
+
+My plans for the year include redesigning the site's homepage to a two or three column design and the aforementioned blog. I'm leaning towards [zonelots]() as a start. I am aware of bear blog and mataroa and ever the [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog) tutorial I completed but I want to have experience with the bare necessities for maintaining a blog. Gotta start somewhere.
+
+Oh, important announcement. Last year I started taking HTML/CSS courses at CodeAcademy. I finished the Begginner HTML and CSS, and Internmediate HTML. Need to finish Intermediate CSS course. I also created a [Codepen.io]() account to practice.
+
+On the second half of the year, I mainly focused on my hobbies. I'm confident I will see some effects in my future writing and web design available in this website and blog. I really needed a place where I wouldn't be bound by perfectionism and fear of failure, trying out new things without thinking of the consequences. To be honest, it's a silly fear because folks actually appreciate reading about them regardless of my expertise. I hope to bring that sense of freedom to this site and future updates.
 
 ## May 27th, 2025
 Oh my, oh my, am I glad to be back tweaking this site! I chose to put this site aside to focus on my studies and I'm proud to inform that after doing an internship, this enby will be the owner of a Bachelor degree! In Environmental Science! Woohoo! Haha.

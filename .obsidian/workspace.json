@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colophon.md",
+                "file": "02 now/Now.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Colophon"
+              "title": "Now"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "1.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -155,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -164,18 +166,19 @@
   },
   "active": "06685ad43517cc77",
   "lastOpenFiles": [
-    "04 projects/04.1 crochet/Granny Fanny Pack.md",
+    "04 projects/Projects.md",
     "02 now/Now.md",
+    "+ Home.md",
+    "04 projects/04.1 crochet/Granny Fanny Pack.md",
+    "04 projects/04.0 web dev/maryseph-site/Layouts.md",
+    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
+    "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
+    "Colophon.md",
     "01 about/About.md",
     "Accessibility.md",
-    "Colophon.md",
-    "+ Home.md",
     "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
-    "04 projects/Projects.md",
     "04 projects/04.0 web dev/WebDev.md",
     "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
-    "04 projects/04.0 web dev/maryseph-site/Layouts.md",
-    "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
     "Sitemap.md",
     "04 projects/04.0 web dev/Web Dev Commonplace.md",
     "04 projects/04.0 web dev/maryseph-site/Uses.md",
@@ -187,7 +190,6 @@
     "04 projects/04.1 crochet/Table Runner.md",
     "01 about",
     "05 links/Links.md",
-    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
     "04 projects/04.1 crochet/Pouches for Device Chargers.md",
     "04 projects/04.1 crochet/Hexagon Shirt - Take 1.md",
     "images/icons8-wordpress-48.png",
