@@ -1,29 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="auto">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mary Seph | Blog: Social Media Presence Cleanup</title>
-    <meta name="author" content="MarySeph">
-    <meta name="description" content="a new website">
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-    <link rel="shortcut icon" type="image/x-icon" href="/images/icon 2.png" />
-</head>
-<body id="container">
+	<meta charset="UTF-8">
 
+	<title>Mary Seph | Blog: Social Media Presence Cleanup</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../resources/style.css" rel="stylesheet" type="text/css" media="all">
+
+	<link rel="icon" href="../resources/icon 1.png">
+</head>
+
+<body>
 <div id="skip"> <a href="#content">Skip to content</a> </div>
 
-<header id="header">
-    <nav>
-        <iframe src="/nav.html" title="navigation"
-            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    </nav>
-</header>
+	<main id="container">
 
-<main id="content">
-    <h1>Social Media Presence Cleanup</h1>
+		<header id="header">Sorry, this site needs JavaScript to work.</header><!--#header end-->
 
-    <p>What the heck is this? How did I get here? At one point, I was downloading the data from my X/Twitter account and the
+
+		<article id="content">
+			<header>
+				<h1>Social Media Presence Cleanup</h1>
+				<time id="post-date"></time>
+				<ul id="post-tags" class="flex-list"></ul>
+			</header>
+
+			<hr>
+
+			<p>What the heck is this? How did I get here? At one point, I was downloading the data from my X/Twitter account and the
     next I was assessing a bunch of accounts and deleting those that served no purpose whatsoever. No time for the winter
     blues when the urge to minimize social media hits. Or it can be the 3pm coffee. It's <i>definitely</i> the 3pm coffee.</p>
     <p>Now, I'm looking over the accounts that I do want to keep in my life, and I have lot of plans for a new website.
@@ -77,17 +82,30 @@
     </ul>
     <p>Fortunately, a Github account doesn't require much upkeeping because it's part of my workflow. So technically, I will be
     focusing most of my efforts in the first two accounts.</p>
-    <p>A BlueSky account sounds nice in <i>theory</i> but I like to ramble (as you can see). That means I run opposite to short form
+    <p>A BlueSky account sounds nice in z<i>theory</i> but I like to ramble (as you can see). That means I run opposite to short form
     content. I <i>am</i> eyeing <a href="https://status.cafe/">status.cafe</a> though. Seems pretty chill, what with not being able to interact with users, haha. No
     idea what that says about me.</p>
+		</article> <!-- #content end-->
 
-    <iframe src="/backtotop.html" title="back to top"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-</main>
+			<blockquote>{{Here you can add link to other sites this post can be read on}}.
+			</blockquote>
 
-<footer>
-    <iframe src="/footer.html" title="footer"
-        onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-</footer>
+		<hr>
+
+			<nav id="" class="center">
+					<a href="#content" rel="return">back to top</a> | <a href="/index.html">homepage</a>
+					
+			</nav>
+
+			<nav id="post-nav"></nav><!--#post-nav end-->
+
+	</main><!--#container end-->
+
+
+<footer id="footer">
+	<p>2026 &#169; Mary Seph</p>
+</footer><!--#footer end-->
+
+	<script src="../resources/main.js"></script>
 </body>
 </html>
