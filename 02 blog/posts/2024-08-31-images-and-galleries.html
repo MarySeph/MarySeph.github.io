@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+<head>
+	<meta charset="UTF-8">
+
+	<title>Example post</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../resources/main.css" rel="stylesheet" type="text/css" media="all">
+
+	<link rel="icon" href="../resources/favicon.ico">
+</head>
+
+
+
+<body>
+	<a id="skip-link" href="#content">Skip to main content</a>
+
+
+
+	<div id="container">
+		<header id="header">Sorry, this site needs JavaScript to work.</header><!--#header end-->
+
+
+
+		<article id="content">
+			<header>
+				<h1>Example post</h1>
+				<time id="post-date"></time>
+				<ul id="post-tags" class="flex-list"></ul>
+			</header>
+			<p>This post shows how various media (mainly images) are styled by default in Zonelots.</p>
+
+			<h2>Images</h2>
+			<p>Images scale down if they're wider than the main column, but otherwise keep their original size.</p>
+			<img class="centre" src="../images/i_am_a_scientist_-_youkai_hunter_5_5.png" alt="Manga panel of a man saying “I am a scientist who has trusted in human science and industrial civilization. But what now?”">
+
+			<h2>Galleries</h2>
+			<p>Image galleries are sets of images. The images are cropped to be square, and the more images there are, the more columns the gallery has (up to a point). Here's a gallery with one image:</p>
+			<ul class="gallery">
+				<li><img src="../images/alpine.jpg" alt="Photo of forested alpine ridges."></li>
+			</ul>
+			<p>With 2–4 images, there are 2 columns:</p>
+			<ul class="gallery">
+				<li><img src="../images/alpine.jpg" alt="Photo of forested alpine ridges."></li>
+				<li><img src="../images/cat.jpg" alt="Photo of a young-looking cat laying on its side, looking intently at the camera."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Photo of the Eiffel Tower emerging from grey city blocks in winter."></li>
+			</ul>
+			<p>With 5–9 images, there are 3 columns:</p>
+			<ul class="gallery">
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Eiffel Tower."></li>
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Eiffel Tower."></li>
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+			</ul>
+			<p>And with 10+ images, there are 4 columns:</p>
+			<ul class="gallery">
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Eiffel Tower."></li>
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Eiffel Tower."></li>
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+				<li><img src="../images/eiffel-tower.jpg" alt="Eiffel Tower."></li>
+				<li><img src="../images/alpine.jpg" alt="Forest."></li>
+				<li><img src="../images/cat.jpg" alt="Cat."></li>
+			</ul>
+			<p>Each gallery is an ordered or unordered list with the class <code>gallery</code>. Each image is wrapped in a list item element. The code looks like this:</p>
+			<code class="code-block">&lt;ul class="gallery"&gt;
+	&lt;li&gt;&lt;img src="" alt=""&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src="" alt=""&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src="" alt=""&gt;&lt;/li&gt;
+&lt;/ul&gt;</code>
+			<p>The <abbr>CSS</abbr> handles the scaling automatically depending on the number of list items.</p>
+			<p>Zonelots doesn't include a lightbox feature, so galleries are best used in situations where readers don't need to see the image in detail inline in the blog post (they can always download the image or view it in a separate tab if they want the full version).</p>
+
+			<h2>Iframes</h2>
+			<p>Iframes fit inside the main column, even if they would be wider. For example, this iframe (<a href="https://drawing.garden/" rel="external">Drawing Garden</a>) is set to 1000 pixels wide, but the main column is 800 pixels wide including the padding and border, so the iframe is reduced to fit:</p>
+			<iframe src="https://drawing.garden/" height="500" width="1000"></iframe>
+		</article><!--#content end-->
+
+
+
+		<footer id="footer">
+			<a href="#content" rel="return">Return to top</a>
+			<nav id="post-nav"></nav><!--#post-nav end-->
+			<ul id="contact-links" class="flex-list"></ul><!--#contact-links end-->
+		</footer><!--#footer end-->
+	</div> <!--#container end-->
+
+
+
+	<script src="../resources/main.js"></script>
+</body>
+</html>
