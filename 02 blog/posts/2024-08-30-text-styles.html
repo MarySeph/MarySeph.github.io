@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+<head>
+	<meta charset="UTF-8">
+
+	<title>Text styles</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../resources/main.css" rel="stylesheet" type="text/css" media="all">
+
+	<link rel="icon" href="../resources/favicon.ico">
+</head>
+
+
+
+<body>
+	<a id="skip-link" href="#content">Skip to main content</a>
+
+
+
+	<div id="container">
+		<header id="header">Sorry, this site needs JavaScript to work.</header><!--#header end-->
+
+
+
+		<article id="content">
+			<header>
+				<h1>Text styles</h1>
+				<time id="post-date"></time>
+				<ul id="post-tags" class="flex-list"></ul><!--#post-tags end-->
+			</header>
+			<p>This post shows how several text elements are styled by default in Zonelots.</p>
+
+			<h2>Lists</h2>
+			<p>Ordered and unordered lists have coloured markers:</p>
+			<ul>
+				<li>item</li>
+				<li>item</li>
+				<li>item</li>
+			</ul>
+			<ol>
+				<li>item</li>
+				<li>item</li>
+				<li>item</li>
+			</ol>
+
+			<h2>Code</h2>
+			<p>Inline code, e.g. <code>index.html</code>, is shrunken slightly to fit in better with the default font. Code-blocks are <code>code</code> elements with the <code>code-block</code> class:</p>
+			<code class="code-block">&lt;code class="code-block"&gt;const max = 100;
+
+for (let i = 1; i < max; i++) {
+	let output = ``;
+	if (i % 3 === 0) output += `fizz`;
+	if (i % 5 === 0) output += `buzz`;
+	console.log(output === `` ? i.toString() : output);
+}&lt;/code&gt;</code>
+			<p>Text in code-blocks is pre-formatted and tabs are 4 spaces wide.</p>
+
+			<h2>Blockquotes</h2>
+			<p>Blockquotes are indented:</p>
+			<blockquote>
+				<p>Inline code, e.g. <code>index.html</code>, is shrunken slightly to fit in better with the default font. Code-blocks are <code>code</code> elements with the <code>code-block</code> class:</p>
+			</blockquote>
+			<p>A blockquote with a citation should be put inside a <code>figure</code> element, with the citation in a <code>figcaption</code> element:</p>
+			<code class="code-block">&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;I have only a short time to live, only one death to die, and I will die fighting for this cause. There will be no peace in this land until slavery is done for.&lt;/p&gt;
+	&lt;/blockquote&gt;
+	&lt;figcaption&gt;John Brown, 1856&lt;/figcaption&gt;
+&lt;/figure&gt;</code>
+			<p>The citation will automatically include an em dash:</p>
+			<figure>
+				<blockquote>
+					<p>I have only a short time to live, only one death to die, and I will die fighting for this cause. There will be no peace in this land until slavery is done for.</p>
+				</blockquote>
+				<figcaption>John Brown, 1856</figcaption>
+			</figure>
+
+			<h2>Disclosure/details-summary widgets</h2>
+			<p>The summary element has a coloured marker and the hidden content is indented:</p>
+			<details>
+				<summary>Click me</summary>
+				<p>I'm the hidden content.</p>
+			</details>
+
+			<h2>Upper- and lowercase</h2>
+			<p>If you want to force some text to appear in all <span class="uppercase">uppercase</span> or <span class="lowercase">LOWERCASE</span> for visual effect, try using the <code>uppercase</code> or <code>lowercase</code> classes on the parent element. If you want text inside an all-uppercase/lowercase element to revert back to the case you wrote it in, use the <code>undo-case</code> class: <span class="uppercase">this text appears in uppercase despite being written in lowercase, <span class="undo-case">while THIS text aPpEaRs in its Original Written Case</span> despite being inside the uppercase-styled text</span>.</p>
+			<code class="code-block">&lt;span class="uppercase"&gt;this text appears in uppercase despite being written in lowercase,
+&lt;span class="undo-case"&gt;while THIS text aPpEaRs in its Original Written Case&lt;/span&gt;
+despite being inside the uppercase-styled text&lt;/span&gt;</code>
+		</article><!--#content end-->
+
+
+
+		<footer id="footer">
+			<a href="#content" rel="return">Return to top</a>
+			<nav id="post-nav"></nav><!--#post-nav end-->
+			<ul id="contact-links" class="flex-list"></ul><!--#contact-links end-->
+		</footer><!--#footer end-->
+	</div> <!--#container end-->
+
+
+
+	<script src="../resources/main.js"></script>
+</body>
+</html>

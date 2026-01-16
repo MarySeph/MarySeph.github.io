@@ -1,0 +1,422 @@
+/* ==============
+	GLOBAL
+============== */
+
+:root {
+	--color: #011523;
+	--background: #d6fcfc;
+	
+	--link: #23237b;
+	--linkhover: #8DA399;
+	
+	--formbg:#f4f1e9;
+	--formcolor:#212c2c;
+	
+	--accentbg:#e0d9c6;
+	--hr: #bb9860;
+
+	--gap: 1.5rem;
+	--interface-font-size: 1em;
+}
+
+
+* { margin: 0; 
+	padding: 0; 
+	transition:0.5s ease;
+	box-sizing: border-box;
+}
+
+
+
+/* ==============
+	Structure
+============== */
+
+body {
+	color: var(--color);
+	background: var(--background);
+	font: 16px Georgia, Times New Roman, sans-serif;
+	letter-spacing: .35px;
+	margin-bottom: 0.625rem;
+}
+
+a {
+	color:var(--link);
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+hr {
+	border:0.5px solid;
+	margin: 20px;
+}
+
+img {
+	max-width:100%;
+	margin:5px;
+}
+
+details{
+	background-color: var(--accentbg);
+	padding: 0.75rem 1rem;
+	line-height: 1.5rem;
+	margin: .25rem;
+	border-radius: 7px;
+}
+
+
+
+
+/* Skip button */
+#skip a {
+	position: absolute;
+	display: inline-block;
+	left: 0rem;
+	top: -1000px;
+	overflow: hidden;
+	transition: top 0.5s ease;
+	background: var(--background);
+	color: var(--link);
+	z-index: 1000;
+	padding: 0.3125rem;
+}
+
+#skip a:focus {
+	top: 0;
+	transition: top 0.5s ease;
+}
+
+/* Wrapper */
+
+#container {
+	width: calc(100% - 20%);
+	margin: 1.25rem auto 0.5rem;
+	padding: 1.25rem;
+}
+
+
+
+/* ==============
+	Header
+============== */
+
+#header {
+	font-size:1.3em;
+	text-align:center;
+	font-style:italic;
+}
+
+/* Header links */
+
+#header ul {
+	list-style: none;
+	margin:0;
+}
+
+#header li {
+	display:inline-block;
+	margin: 0rem 3.125rem 0rem 0rem;
+}
+
+
+
+/* ==================
+	Content styling
+====================== */
+
+main {
+	margin-top: 1.25rem;
+}
+
+/* Headers */
+
+main h1 {
+	font-size: 1.8em;
+	font-weight: normal;
+}
+
+main h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+}
+
+main h3 {
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+main h4 {
+	font-size: 0.9em;
+	font-weight: normal;
+	font-style: italic;
+}
+
+main blockquote {
+	padding: 0.625rem;
+	border-left: 0.625rem solid var(--hr);
+	background:var(--accentbg);
+}
+
+article ul{
+	padding: 0 0 0 2.5rem;
+}
+
+/* Paragraphs */
+
+main p {
+	margin: 0.625rem 0rem;
+	line-height: 1.5rem;
+}
+
+main ol {
+	list-style: inside;
+	margin-left: 1.25rem;
+}
+
+main li {
+	margin: 5px 0px;
+}
+
+/* Links */
+
+#links {
+	padding: 0.5rem 0;
+}
+
+/* ==================
+	Footer styling
+====================== */
+
+#footer {
+	font-size: 0.85em;
+	margin: 0.5rem 0rem;
+	padding: 0.5rem 0;
+	text-align: center;
+}
+
+#contact-links {
+	& > li:not(:last-child)::after {
+		content: "\a0 |\a0"; /* non-breaking space + pipe + non-breaking space */
+	}
+}
+
+
+
+/* =================
+	Media styling
+==================== */
+
+img {
+	display: block;
+	margin-inline: auto;
+}
+figure {
+	margin-inline: var(--gap);
+}
+figcaption {
+	text-align: center;
+	blockquote + &::before {
+		content: "\2014 \a0"; /* em dash + non-breaking space */
+	}
+}
+.gallery {
+	--gallery-cols: 1;
+	display: grid;
+	grid-template-columns: repeat(var(--gallery-cols), 1fr);
+	gap: calc(2rem / var(--gallery-cols));
+	padding-left: 0;
+	list-style-type: "";
+	&:has(:nth-child(2)) {
+		--gallery-cols: 2;
+	}
+	&:has(:nth-child(5)) {
+		--gallery-cols: 3;
+	}
+	&:has(:nth-child(10)) {
+		--gallery-cols: 4;
+	}
+	img {
+		height: 100%;
+		width: 100%;
+		aspect-ratio: 1;
+		object-fit: cover;
+	}
+}
+
+iframe {
+	/* max-inline-size: 100%;
+	display: block;
+	margin-block: 1rem;
+	border: var(--line); */
+	width: 100%; 
+	height: 600px; 
+	border: none;
+}
+
+.button{
+	background-color: var(--accentbg); 
+	padding: 0.25rem 0.5rem;
+	border-radius: 0.5rem;
+}
+
+/* =================
+	Posts styling
+==================== */
+
+article > header {
+	margin-block-end: 1rem;
+	padding-block-end: 1rem;
+	border-block-end: var(--line);
+	h1 {
+		margin-block-end: 0.5rem;
+		font-size: 2.2rem;
+	}
+	& + * {
+		margin-block-start: 0;
+	}
+}
+#post-tags {
+	list-style-type: none;
+	margin-block: 0;
+	& > li:not(:last-child)::after {
+		content: ",\a0"; /* comma + non-breaking space */
+	}
+	a::before {
+		content: "#";
+	}
+}
+
+#post-nav > ul {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: var(--gap);
+	padding-inline-start: 0;
+	list-style-type: "";
+	& > :first-child > a::before {
+		content: "\2190 \a0"; /* left arrow + non-breaking space */
+	}
+	& > :last-child {
+		text-align: right;
+		a::after {
+			content: "\2192 \a0"; /* right arrow + non-breaking space */
+		}
+	}
+}
+
+
+/* Lists */
+
+.post-list {
+	padding-inline-start: var(--gap);
+	list-style-type: "";
+	text-indent: calc(-1 * var(--gap));
+	font-size: var(--interface-font-size);
+}
+
+#tag-index {
+	padding-inline-start: 0;
+	list-style-type: "";
+	details {
+		margin-block: 0;
+	}
+	[open] {
+		margin-block-end: 1rem;
+	}
+	summary {
+		font-size: var(--interface-font-size);
+	}
+}
+
+
+
+/* ===================
+	Zonelets Classes
+====================== */
+
+.right {
+	float: right;
+	margin-left: 1em;
+}
+
+.left {
+	float: left;
+	margin-right: 1em;
+}
+
+.center {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.caption {
+	font-size:0.85em;
+	font-style:italic;
+}
+
+
+#nextprev {
+	text-align: center;
+	margin-top: 10px;
+	clear:both;
+}
+
+.flex-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding-inline-start: 0;
+	list-style-type: "";
+}
+
+.post-container{
+	background-color: var(--accentbg);
+	padding: 0.75rem 0.5rem 0.75rem 2rem;
+	line-height: 1.5rem;
+	margin: 1rem;
+	border-radius: 7px;
+}
+
+
+/* =================
+	Media Queries
+==================== */
+
+@media only screen and (min-width: 600px) {
+	.small {
+    max-width: 40%;
+	}
+
+	#container {
+	width: 70%;
+	font-size: 1.125rem;
+	}
+}
+
+@media only screen and (min-width: 1023px) {
+	body { 
+		font-size: 1.25rem; 
+	}
+}
+
+/* Alternate colors */
+/* Replace "dark" with "light" and add your light mode colors here if you want your site to be in dark mode by default */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color:#DCD7C9;
+		--background:#2C3639;
+		
+		--link:#76ABDF;
+		--linkhover:#cca376;
+		
+		--formbg:#232c2f;
+		--formcolor:#DCD7C9;
+		
+		--accentbg:#232c2f;
+		--hr: #5b7e81;
+	}
+}
