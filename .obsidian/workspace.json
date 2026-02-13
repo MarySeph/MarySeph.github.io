@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7deaa14b3dfa4c34",
+    "id": "f9a908529c8b6460",
     "type": "split",
     "children": [
       {
-        "id": "7d7707c7e37b9e0f",
+        "id": "73e3fb15feed5868",
         "type": "tabs",
         "children": [
           {
-            "id": "06685ad43517cc77",
+            "id": "cca5bd5a51fdc6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 now/Now.md",
+                "file": "01 about/About.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,24 +28,169 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Now"
+              "title": "About"
+            }
+          },
+          {
+            "id": "10ad01ba7868b702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colophon.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Colophon"
+            }
+          },
+          {
+            "id": "244eeb08d9b1a0af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footer.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Footer"
+            }
+          },
+          {
+            "id": "bbfda48b0a284b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Update Archive"
+            }
+          },
+          {
+            "id": "1158c952c5321d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 about/Privacy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Privacy"
+            }
+          },
+          {
+            "id": "c198de68095aac4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 about/POSSE.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "POSSE"
+            }
+          },
+          {
+            "id": "a7ea520f9fb28239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Update Archive"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "53221a2617a9d988",
+    "id": "2f5950694569e5f1",
     "type": "split",
     "children": [
       {
-        "id": "6b04b9acfd87ea4c",
+        "id": "de5f1a1b1de066be",
         "type": "tabs",
         "children": [
           {
-            "id": "c16295c9acd2a9a7",
+            "id": "ea7d384c34ec756b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +203,12 @@
             }
           },
           {
-            "id": "6f11d1770796b8cd",
+            "id": "243bac1d8f702d2d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "1.1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +220,7 @@
             }
           },
           {
-            "id": "d311c5bccc46f2bc",
+            "id": "1bf9242b3f402e2c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +233,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
-    "id": "76e33c0abeb3f334",
+    "id": "ffc35fa6d8eaf829",
     "type": "split",
     "children": [
       {
-        "id": "d59e9d076fcd0b1e",
+        "id": "3c8ef78e6ea51e02",
         "type": "tabs",
         "children": [
           {
-            "id": "f8035473ca0755cf",
+            "id": "7d683695d80d82c9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Footer.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,103 +259,127 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Footer"
             }
           },
           {
-            "id": "b73eccdad9c7b80c",
+            "id": "5ce4949ed0a81699",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b4cebf153f22bd82",
+            "id": "03109c3aeb747268",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
+          },
+          {
+            "id": "8a041deab1e725e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "a0f0cb8d24746bd8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granny Fanny Pack.md",
+                "file": "01 about/About.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Granny Fanny Pack"
+              "title": "Outline of About"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
+    "width": 273.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "bases:Create new base": false
     }
   },
-  "active": "06685ad43517cc77",
+  "active": "ea7d384c34ec756b",
   "lastOpenFiles": [
-    "04 projects/Projects.md",
-    "02 now/Now.md",
     "+ Home.md",
-    "04 projects/04.1 crochet/Granny Fanny Pack.md",
-    "04 projects/04.0 web dev/maryseph-site/Layouts.md",
-    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
-    "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
-    "Colophon.md",
     "01 about/About.md",
-    "Accessibility.md",
-    "01 about/Curriculum Vitae_Maria Jose Ruiz.md",
-    "04 projects/04.0 web dev/WebDev.md",
-    "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
-    "Sitemap.md",
-    "04 projects/04.0 web dev/Web Dev Commonplace.md",
-    "04 projects/04.0 web dev/maryseph-site/Uses.md",
-    "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
-    "Nav.md",
-    "04 projects/04.1 crochet/GrannyHexagonBlanket (WIP).md",
-    "04 projects/04.1 crochet/Granny Stitch Bag.md",
+    "Colophon.md",
     "Footer.md",
-    "04 projects/04.1 crochet/Table Runner.md",
-    "01 about",
-    "05 links/Links.md",
-    "04 projects/04.1 crochet/Pouches for Device Chargers.md",
-    "04 projects/04.1 crochet/Hexagon Shirt - Take 1.md",
-    "images/icons8-wordpress-48.png",
-    "images/github.png",
-    "images/linkedin.png",
+    "01 about/Privacy.md",
+    "01 about/2025 Site Updates.md",
+    "04 projects/04.0 web dev/maryseph-site/2024 Site Updates.md",
+    "04 projects/04.0 web dev/maryseph-site/Update Archive.md",
+    "04 projects/04.0 web dev/maryseph-site/Layouts.md",
+    "Accessibility.md",
+    "04 projects/04.0 web dev/maryseph-site/Site Plans.md",
+    "01 about/POSSE.md",
+    "04 projects/04.0 web dev/maryseph-site/Changelog.md",
+    "Nav.md",
+    "02 now/Now.md",
+    "03 blog/03 blog.md",
+    "images/site_button.gif",
+    "images/kawaiiness - Imgur.png",
+    "images/dannarchy.gif",
+    "images/caitbutton.gif",
+    "images/buttondip.png",
+    "images/button.png",
+    "images/button (4).gif",
+    "images/button (2).gif",
+    "images/button (1).png",
+    "images/OwlBanner.gif",
+    "Sitemap.md",
     "05 links/Nature-inspiredArt.md",
-    "images/demisexual.png",
-    "images/demisexual.png.crdownload",
-    "images/nonbinary.png",
-    "images/nonbinary.png.crdownload",
+    "05 links/Links.md",
+    "04 projects/Projects.md",
+    "04 projects/Organizing my Buttons Stash (WIP).md",
+    "04 projects/04.1 crochet/Table Runner.md",
+    "04 projects/04.1 crochet/Slouchy Robin Beanie.md",
+    "04 projects/04.1 crochet/Pouches for Device Chargers.md",
+    "04 projects/04.1 crochet/Orange Slice Coasters.md",
+    "04 projects/04.1 crochet/Mesh Bag.md",
     "04 projects/04.1 crochet",
-    "images/blog_not_china.gif",
-    "03 garden",
-    "images/1737224878295.jpg",
-    "images/P4eo1Gw - Imgur.png",
-    "images/45-degree-fabric-light.png",
-    "images/G8AyR6r - Imgur.png",
-    "images/45-degree-fabric--light--1920x1080.png.crdownload",
-    "images/45-degree-fabric-light.png.crdownload",
-    "03 writing/00 shrines",
-    "images/Mary's Creative Corner - Homepage (Dsktp)",
-    "images/caitbutton.gif.crdownload"
+    "04 projects/04.0 web dev/tw-site",
+    "04 projects/04.0 web dev/maryseph-site",
+    "04 projects/04.0 web dev",
+    "03 blog",
+    "+ archive"
   ]
 }

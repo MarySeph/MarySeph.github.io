@@ -1,1 +1,1 @@
-[[+ Home]] | [[About|About]] | [[Now]] | Blog | [[Projects]] | [[Links]] ^nav
+[[+ Home]] | [[About|About]] | [[Now]] | [[03 blog|Blog]] | [[Projects]] | [[Links]] ^nav

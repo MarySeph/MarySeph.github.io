@@ -5,12 +5,12 @@
 Or, how this site was made.
 
 ## Key Principles
-This website was created, handcoded, and tested for accessibility by yours truly. This is a personal, text-first, static, website that uses minimal JavaScript, images, and styling. As an advocate of the [IndieWeb](https://indieweb.org/) movement, this website is free of tracking services and corporate marketing. The webmaster is the sole owner of the website and its content. They are committed to the accessibility of this website, taking great care to adhere to it principles and improve the accessibility of new content and versions of this site.
+This website was created, handcoded, and tested for accessibility by yours truly. This is a personal, text-first, static, website that uses minimal JavaScript, images, and styling. As an advocate of the [IndieWeb](https://indieweb.org/) movement, this website is free of tracking services and corporate marketing. You can read more on [[Privacy|privacy]]. The webmaster is the sole owner of the website and its content. They are committed to the accessibility of this website, taking great care to adhere to it principles and improve the accessibility of new content and versions of this site.
 
-For more information, read the annoyingly long, overly-dramatic and totally unfinished [[Site Manifesto|manifesto]].
+%% For more information, read the annoyingly long, overly-dramatic and totally unfinished [[Site Manifesto|manifesto]]. %%
 
 ## Technologies & Techniques
-This site was drafted in [Obsidian](https://obsidian.md/), turned into HTML/CSS, in VSCode, tested for accessibility on Chrome and Firefox Desktop, and on Ecosia for mobile, and hosted in [GithubPages]((https://github.com/MarySeph/MarySeph.github.io)), all using a refurbished HP Elitebook.
+This site was drafted in [Obsidian](https://obsidian.md/), turned into HTML/CSS through VSCode, tested for accessibility on Chrome and Firefox Desktop, and on Ecosia for mobile, and hosted in [GithubPages]((https://github.com/MarySeph/MarySeph.github.io)), all using a refurbished HP Elitebook.
 
 I use git to track changes—both in Obsidian and VSCode—and upload it to a Github repo. For web development, I apply the [git-flow](https://jeffkreeftmeijer.com/git-flow/) workflow system. Keeping it short, I have three active branches, `main` (branch that gets sent to Neocities), `develop` (for quick changes and base branch for final branch type), and `feature-NAME` (can be one or multiple). The last focuses on testing specific additions to the website like content, layouts, or color schemes.
 

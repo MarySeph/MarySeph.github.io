@@ -10,8 +10,9 @@
 </figcaption>
 </figure>
 
-Hi, I'm Mary! I'm a 27yo Environmental Science and Policy undergrad. 
+Hi, I'm Mary and I go by they/them pronouns! I'm a 27yo Environmental Science and Policy undergrad.
 
+I have an academic background in Biology and Environmental Science and I'm huge nerd.
 
 ---
 

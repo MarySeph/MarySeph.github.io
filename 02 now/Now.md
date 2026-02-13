@@ -3,12 +3,12 @@
 # Now
 
 this page is about what I'm up to right [now](https://nownownow.com/about).
-**Reading**: *come back later*.
-**Writing**: *come back later*.
-**Crafting**: *come back later*.
-**Developing**: This site.
-**Learning**: How to use Mastodon.
-**Feeling**: Confident.
+**Reading**: Warrior Cats Book 1 (soon).
+**Writing**: Something for my SciComm internship.
+**Crafting**: *Water bottle holder, Scarf.
+**Developing**: Blog and Fediverse accounts, including this blog. Or so I'm telling myself. Could be procrastination though..
+**Learning**: How to navigate [Mastodon](https://scicomm.xyz/@MarySeph) and [Sharkey](https://hol.ogra.ph/@maryseph) and [Pixelf](https://lgbt.earth/maryseph).
+**Feeling**: Busy.
 
 ## January 6th, 2026
 So, it's been a while. More than half a year actually. I'm thinking of moving these posts to an upcoming blog I want to develop.

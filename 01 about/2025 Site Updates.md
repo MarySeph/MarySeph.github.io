@@ -1,0 +1,5 @@
+> [[Update Archive| Go back]]
+
+- **2025.08.02** - Applied relatives sizes and semantic tags to improve site accessibility. [[About]] page moved to nav bar. Created [[colophon]] and [[accessibility]] pages. Modified [[+ Home|homepage]] with new sections according to [[Layouts#Version 1.1| 1.1 layout]]. Added [[Projects#Crochet|new crochet projects]].
+- **2025.05.27** - Gave the site a well deserved refresh. Updated [[Now]] and added some [[Projects#Crochet|new crochet projects]]. 
+- **2025.01.28** - Transferred whole site to new repo Github. MarySeph is now hosted in Github Pages.

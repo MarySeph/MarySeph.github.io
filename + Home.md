@@ -29,9 +29,8 @@ onload="this.before((this.contentDocument.body||this.contentDocument).children[0
 [[Now#May 27th, 2025|May 27th, 2025]]
 
 ### Stickers
-<a href="https://notbyai.fyi">![[view_on_electrnic_web.gif|125]]</a>
-![[98_you.png|125]]
 ![[barcode_web.gif|125]]
+![[98_you.png|125]]
 ![[earth_flat_cats.png|125]]
 ![[manatee.gif|125]]
 ![[old_school.gif|125]]
