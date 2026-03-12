@@ -54,7 +54,7 @@ The information in this website is intended for teen audiences and up mostly due
 Pending. Will probably switch to MIT License.
 
 ## Credits
-- Icon by [add artist]()
+- Icons by [FontAwesome]()
 - [Reader mode](https://kalechips.net/projects/layouts/) (base template) and skip to content button by [Kalechips](https://kalechips.net/index)
 - Table of contents format bt [Ghost Garden](https://ghostgarden.neocities.org/).
 - Cute Blinking cat cursor (only blinks on Internet Explorer) by [Cursors 4 U](https://www.cursors-4u.com/cursor/2009/01/30/cute-blinking-blue-cat.html).

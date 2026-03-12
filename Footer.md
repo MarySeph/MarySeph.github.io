@@ -1,11 +1,2 @@
-[[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [contact]() | [[Colophon]] | [RSS]()
- [♡](https://copyheart.org/) 2025 Maryseph ^footer
-
-<p align="center">
-<a href="obsidian://open?vault=Marys-Creative-Corner&file=Home">Home</a> |
-<a href="obsidian://open?vault=Marys-Creative-Corner&file=Sitemap">sitemap</a> |
-<a href="obsidian://open?vault=Marys-Creative-Corner&file=Accessibility">accessibility statement</a> |
-<a href="https://maryseph.atabook.org/">guestbook</a> |
-<a href="https://neocities.org/site/maryseph">neocities profile</a><br>
-Mary's Creative Corner © 2024 <a href="obsidian://open?vault=Marys-Creative-Corner&file=About">maryseph</a>
-</p>
+[[Changelog|changelog]] | [[Sitemap| sitemap]] | [[Accessibility|accessibility]] | [[Colophon|colophon]] | ![[rss-solid-full.svg|15]]
+© 2025 by <a href="https://example.com">Mary Seph</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> ^footer

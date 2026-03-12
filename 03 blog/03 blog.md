@@ -9,7 +9,10 @@ I'm not sure what I'll blog about, but for now, you can find the latest updates 
 Where to find me: [website](https://maryseph.github.io/) | [blog](https://maryseph.bearblog.dev/) | [mastodon](https://scicomm.xyz/@MarySeph) | [all links](https://maryseph.github.io/MarySeph-Linktree/).
 
 ## Latest Posts
-
+- [[Laptop Tech Issues]]
+- [[In Search for the Ideal Project Management app]]
+- [[2026 Changes to Journaling Practice]]
+- [[Trying out F-Droid]]
 - [[Social Media Presence Cleanup]]
 
 ![[Footer#^footer]]

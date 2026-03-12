@@ -25,8 +25,8 @@ From field recordings to synth, these artists created pieces inspired by the nat
 - [Planktonium - Short version](https://youtu.be/o7uRl460_5A?si=id8KoXsnRY9HqOZ3).
 - [Composition from the Soundscape of the Anthropocene Ocean](https://youtu.be/f6Nbqwm48yM?si=UhLE3ceTt4vJ0D1a).
 - [The Wanderer [2016, Full Album]](https://youtu.be/xCYN6IovKvc?si=iSBs3Dbl00x482Ig).
-- 
-- ### david berry
+
+### david berry
 - [leaves on a stream - full album](https://youtu.be/nkfvsEBHuQM?si=5pCQTYBlIcXQwW-9).
 
 ![[Footer#^footer]]

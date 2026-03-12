@@ -6,7 +6,7 @@ A simplified map of this site.
 
 ## [[+ Home]]
 
-## [[About]]
+## [[01 About]]
 - [[Web Dev Commonplace]]
 - [[Colophon]]
 - [[Accessibility]]
@@ -19,7 +19,7 @@ A simplified map of this site.
 ~~- [[Uses]]~~
 ~~- [[Site Manifesto]]~~
 
-## [[Now]]
+## [[02 Now]]
 
 ## Blog
 - [[Social Media Presence Cleanup]]

@@ -3,8 +3,6 @@
 # Projects
 
 ## Web Dev
-> [[Web Dev Commonplace]]
-
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
 - [Markdown based blog in Node.js](https://github.com/MarySeph/node-markdown-blog)
 

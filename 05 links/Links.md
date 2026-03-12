@@ -1,27 +1,74 @@
 ![[Nav#^nav]]
 
 # Links
-Table of Contents: [[Links#Vibing|Vibing]]
+Table of Contents:
 
 a collection of leads to other parts of the world wide web.
 
-- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) - do you like, no LOVE HGTV and other TV channels/programs on domestic arts? This channel is basically that. bonus points for making me want to become a better human being. sure few online content can do *that*.
-- [shar](https://www.youtube.com/@shar) - digital artist and animator from the Philippines who has some super cute videos.
-- [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) - British man living in Japan who has been making TV-quality travel blogs for about ten years.
-- [Spilled Ink](https://www.youtube.com/@SpilledInkyt) - art channel of two professional digital artists exploring physical art mediums.
-- [ZeldaZW](https://www.twitch.tv/zeldacw) - cozy digital artist who streams while drawing.
+## Creators
+### Video
+
+### Streaming
+
+### Blogging
 - [Dawn H.](https://dawnahwriting.wordpress.com/) - Wordpress website from an online friend. She's currently revising and posting her stories from her college days.
-- [Mr. Circus Papa](https://tapas.io/MrCircusPapa) - horror comic artist. Their artstyle may be cute but their stories portray heavy topics without pulling any punches.
-- [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. "Inclusive" in the widest sense of the word.
-- [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - Japenese-American that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure.
 
-<!--<a href="">![[#]]</a>-->
-<!--<a href="">![[#]]</a>-->
+## Small Web
+### Community
+#### Webrings
+<ul>
+    <li><a href="https://aromatic.wings.nu/about.php">Aromatic </a> (web dev & scent)</li>
+    <li><a href="https://a11y-webring.club/">A11y Webring</a>(Digital Accessibility)</li>
+	<li><a href="http://nenrikido.neocities.org/webrings/journalring/">Journalring</a></li>
+	<li><a href="https://webmasterwebring.netlify.app/">Webmaster Webring</a>(personal sites)</li>
+	<li><a href="https://baccyflap.com/noai/">No AI Webring</a></li>
+    <!--<li><a href=""></a></li>-->
+</ul>
 
+#### Cliques
+<ul>
+    <!--<li><a href=""></a></li>-->
+</ul>
+
+## Web Dev Resources
+### (Text-heavy) Articles, Write-Ups, and Guides
+<ul>
+    <li><a href="https://32bit.cafe/interactingontheweb/">An Article about Interacting with Other Websites in the Indie Web</a></li>
+    <li><a href="https://indieweb.org/POSSE">IndieWeb.org article about POSSE</a></li>
+    <!--<li><a href=""></a></li>-->
+</ul>
+
+### Resources and Tutorials
+<ul>
+    <li><a href="https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8">Light/Dark Mode CSS code by Ananja Neoji</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Front-end professional certification</a></li>
+    <li><a href="https://github.com/offa/android-foss">Android FOSS (Free and Open Source Software)</a></li>
+        <!--<li><a href=""></a></li>-->
+</ul>
+
+### Web Sites
+<ul>
+    <li><a href="https://indieweb.org/">IndieWeb.org</a></li>
+	<li><a href="https://spyware.neocities.org/">Online Spyware Watchdog</a>: has some articles reviewing software for spyware.</li>
+	<li><a href="https://www.websitecarbon.com/">Website Carbon Calculator</a>: need to look further into it. love to find stuff related to green web design.</li>
+	<li><a href="https://slashpages.net">Slash Pages</a>: directory of cool ideas about slash pages (meta content); I'm considering the <a href="https://www.bydamo.la/p/ai-manifesto">AI statement</a>, <a href="https://thechels.uk/green">green statement</a> pairs well with the <a href="https://www.websitecarbon.com/">website carbon calculator</a>, <a href="https://www.miriamsuzanne.com/2024/07/02/slash-why/">Why statement</a>, <a href="https://niqwithq.com/posts/where-are-you">/Where</a> related to <a href="https://niqwithq.com/been">/Been</a> (great excuse to write some blogs about experiences abroad <em>nudge nudge</em>), <a href="https://rknight.me/next/">/Next</a> step from /Now, <a href="https://chrisburnell.com/note/slash-interests/">/Interests</a> would make a great addition to an /About page.</li>
+	<li><a href="https://people.pledge.party/">The People Pledge</a>: pledge to treat everyone without prejudice.</li>
+	<li><a href="https://niqwithq.com/where">Niq with Q /Where page example</a>.</li>	
+    <!--<li><a href=""></a></li>-->
+</ul>
+
+### Graphic Resources
+<ul>
+	<li><a href="https://fontawesome.com/">FontAwesome</a>
+	    <!--<li><a href=""></a></li>-->
+</ul>
+
+## My Links
+My other projects around the web.
+### Accounts and Sites
 
 ## Vibing
 
 - [[Nature-inspiredArt]] - Ambient music.
-- [Umineko Beats to Dance to](https://open.spotify.com/playlist/5WnPqI707Kjouuz3QQpWRT?si=170747dbe9694c52) - Some sick EDM and violin songs from the visual novel.
 
 ![[Footer#^footer]]

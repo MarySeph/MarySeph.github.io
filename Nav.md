@@ -1,1 +1,1 @@
-[[+ Home]] | [[About|About]] | [[Now]] | [[03 blog|Blog]] | [[Projects]] | [[Links]] ^nav
+[[+ Home|Mary Seph]] | [[01 About|About]] | [[02 Now|Now]] | [[03 blog|Blog]] | [[Projects]] | [[Links]] ^nav
