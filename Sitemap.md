@@ -6,22 +6,31 @@ A simplified map of this site.
 
 ## [[+ Home]]
 
-## [[01 About]]
-- [[Web Dev Commonplace]]
+## [[01 About|About]]
+- [[AI]]
+- [[Been]]
+- [[Green]]
+- [[Interests]]
+- [[Next]]
+- [[POSSE]]
+- [[Uses]]
+- [[Where]]
+- [[Why]]
+### Site
 - [[Colophon]]
 - [[Accessibility]]
 - [[Site Plans]]
 - [[Layouts]]
-- [[Update Archive]]
 - [[Sitemap]]
-- [RSS feed](#)
+- [[Changelog]]
 
-~~- [[Uses]]~~
-~~- [[Site Manifesto]]~~
-
-## [[02 Now]]
+## [[02 Now|Now]]
 
 ## Blog
+- [[2026 Changes to Journaling Practice]]
+- [[In Search for the Ideal Project Management app]]
+- [[Laptop Tech Issues]]
+- [[Trying out F-Droid]]
 - [[Social Media Presence Cleanup]]
 
 %%## Garden%%
@@ -45,7 +54,7 @@ A simplified map of this site.
 ### Misc.
 - [[Organizing my Buttons Stash (WIP)]] 
 
-## [Contact](#)
+%% ## [Contact](#) %%
 
 ## [[Links]]
 - [[Nature-inspiredArt]]

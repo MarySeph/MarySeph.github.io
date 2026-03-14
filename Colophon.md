@@ -51,12 +51,11 @@ This website was born in October 2024 and was hosted in Neocities till January 2
 The information in this website is intended for teen audiences and up mostly due to the complexity of the content.
 
 ## Copyright Policy
-Pending. Will probably switch to MIT License.
+ Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## Credits
-- Icons by [FontAwesome]()
-- [Reader mode](https://kalechips.net/projects/layouts/) (base template) and skip to content button by [Kalechips](https://kalechips.net/index)
-- Table of contents format bt [Ghost Garden](https://ghostgarden.neocities.org/).
+- Icons by [FontAwesome](https://fontawesome.com/).
+- Base template (Reader mode), skip to content button, and light/dark mode code by [Kalechips](https://kalechips.net/index).
 - Cute Blinking cat cursor (only blinks on Internet Explorer) by [Cursors 4 U](https://www.cursors-4u.com/cursor/2009/01/30/cute-blinking-blue-cat.html).
 
 ![[Footer#^footer]]

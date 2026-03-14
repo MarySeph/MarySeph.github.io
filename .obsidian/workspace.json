@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "+ Home"
             }
-          },
-          {
-            "id": "6693cc827f184fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 blog/2026 Changes to Journaling Practice.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026 Changes to Journaling Practice"
-            }
           }
         ]
       }
@@ -112,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc35fa6d8eaf829",
@@ -203,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,42 +194,42 @@
   },
   "active": "264fde27b7f435dc",
   "lastOpenFiles": [
-    "05 links/Nature-inspiredArt.md",
-    "+ Home.md",
-    "03 blog/2026 Changes to Journaling Practice.md",
-    "01 about/Site Plans.md",
-    "01 about/maryseph-site/Layouts.md",
-    "01 about/Changelog.md",
-    "01 about/01 About.md",
-    "01 about/maryseph-site/Interests.md",
-    "Footer.md",
-    "01 about/maryseph-site/AI.md",
-    "Colophon.md",
-    "+ archive/Update Archive.md",
     "05 links/Links.md",
-    "+ archive/WebDev.md",
-    "+ archive/Web Dev Commonplace.md",
-    "+ archive/2024 Site Updates.md",
-    "+ archive/2025 Site Updates.md",
-    "04 projects/Projects.md",
-    "Nav.md",
     "03 blog/03 blog.md",
-    "images/people_pledge_badge_party_pink_cream_88x31.png",
-    "images/people_pledge_badge_party_cream_pink_88x31.png",
-    "images/people_pledge_badge_oldschool_cream_pink_80x15.png",
-    "images/petrapixel_bookmark-this-page.gif",
-    "01 about/maryseph-site/Why.md",
-    "01 about/maryseph-site/Where.md",
-    "01 about/maryseph-site/Been.md",
-    "01 about/maryseph-site/Next.md",
-    "01 about/maryseph-site/Green.md",
+    "+ Home.md",
     "02 now/02 Now.md",
-    "images/link-solid-full.svg",
-    "images/rss-solid-full.svg",
-    "images/site_button.gif",
-    "images/kawaiiness - Imgur.png",
-    "images/dannarchy.gif",
-    "images/caitbutton.gif",
+    "01 about/01 About.md",
+    "Sitemap.md",
+    "04 projects/Projects.md",
+    "01 about/AI.md",
+    "images/crochet_hexagon-shirt.jpg",
+    "images/crochet_drawstring-pouches.jpg",
+    "images/crochet_table-runner.jpg",
+    "04 projects/04.1 crochet/Hexagon Shirt - Take 1.md",
+    "04 projects/04.1 crochet/Table Runner.md",
+    "04 projects/04.1 crochet/Granny Fanny Pack.md",
+    "images/indieweb88x31-flat.png",
+    "images/vcss.png",
+    "images/valid-rss-rogers.png",
+    "images/120px-webmention-button.svg.png",
+    "images/120px-microformats-button.svg.png",
+    "images/120px-indiewebcamp-button.svg.png",
+    "images/webmention88x31-flat.png",
+    "Colophon.md",
+    "01 about/Why.md",
+    "01 about/Where.md",
+    "01 about/Uses.md",
+    "01 about/POSSE.md",
+    "01 about/Next.md",
+    "01 about/Interests.md",
+    "01 about/Green.md",
+    "01 about/Been.md",
+    "01 about/site/Site Plans.md",
+    "01 about/site/Changelog.md",
+    "01 about/Changelog.md",
+    "+ archive/Update Archive.md",
+    "+ archive/2025 Site Updates.md",
+    "01 about/site/Layouts.md",
     "04 projects/04.1 crochet",
     "04 projects/04.0 web dev/tw-site",
     "01 about/maryseph-site",
