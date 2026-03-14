@@ -23,8 +23,8 @@ Hi there, I'm Mary and this is my personal website. It is a perpetual work in pr
 ## Latest Updates
 - [[02 Now#January 6th, 2026|Jan 6th, 2026]]
 
-## Links
-<a href="https://scicomm.xyz/@MarySeph"><img src="images/mastodon-brands-solid-full.svg" alt="Mastodon" width="32px"></a><a href="https://maryseph.micro.blog/" alt="microblog"><img src="images/microblog-brands-solid-full.svg" width="32px"></a> <a href="https://github.com/MarySeph"><img src="/images/square-github-brands-solid-full.svg" alt="Github" width="32px"></a> <a href="https://linkhub.maryseph.com/" alt="Linkhub" width="32px"><img src="images/link-solid-full.svg" width="32px"></a>
+%% ## Links %%
+%% <a href="https://scicomm.xyz/@MarySeph"><img src="images/mastodon-brands-solid-full.svg" alt="Mastodon" width="32px"></a><a href="https://maryseph.micro.blog/" alt="microblog"><img src="images/microblog-brands-solid-full.svg" width="32px"></a> <a href="https://github.com/MarySeph"><img src="/images/square-github-brands-solid-full.svg" alt="Github" width="32px"></a> <a href="https://linkhub.maryseph.com/" alt="Linkhub" width="32px"><img src="images/link-solid-full.svg" width="32px"></a> %%
 
 ### Stickers
 

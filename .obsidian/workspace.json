@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
+                "file": "Footer.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "Footer"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Home.md",
+                "file": "Footer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of + Home"
+              "title": "Outline of Footer"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "264fde27b7f435dc",
   "lastOpenFiles": [
+    "+ Home.md",
     "05 links/Links.md",
     "03 blog/03 blog.md",
-    "+ Home.md",
     "02 now/02 Now.md",
     "01 about/01 About.md",
     "Sitemap.md",
