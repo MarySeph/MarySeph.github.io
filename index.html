@@ -24,98 +24,58 @@
 
 <main id="content">
     <h1>Welcome to my site!</h1>
-    <p>Hi there, my name is Mary! This is my personal website for some stream of consciousness writing and other creative
-    hobbies like front-end web dev, crochet, and sewing.</p>
-    <blockquote>This site is a perpetual work in progress.</blockquote>
-    
-    <article id="changelog">
-        <h2>What's New</h2>
-            <div id="changelog-iframe">
-                <iframe src="/04 projects/04.00 web dev/maryseph-site/changelog.html" title="changelog" scroll="true"
-                onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-            </div>
-            <div class="centered">
-                <p class="btn"><a href="/04 projects/04.00 web dev/maryseph-site/updatearchive.html">Older updates</a></p>
-            </div>
-    </article>
+    <p>Hi there, I'm Mary and this is my personal website. It is a perpetual work in progress.</p>
 
-    <article id="blog">
-        <h2>Latest Blog</h2>
-            <div>
-                <ul>
-                    <li><a href="./02 blog/posts/2025-01-30-socmed-cleanup.html">Social Media Cleanup</a></li>
-                </ul>
-            </div>
-    </article>
+    <section class="center" id="bumper-stickers">
+        <img src="images/barcode_web.gif" alt="barcode" class="bumper-sticker">
+        <img src="images/98_you.png" alt="primates are 98% you" class="bumper-sticker">
+        <img src="images/earth_flat_cats.png" alt="the earth can't be flat. cat would have pushed everything off the edge by now." class="bumper-sticker">
+        <img src="images/manatee.gif" alt="save the manatee" class="bumper-sticker">
+        <img src="images/old_school.gif" alt="old school" class="bumper-sticker">
+        <img src="/images/view_on_electrnic_web.gif" alt="this website is best viewed on electronic devices" class="bumper-sticker">
+    </section>
 
-    <aside id="sidebar">
-        <article id="status">
-            <h3>Status</h3>
-                <div id="statuscafe">
-                    <div id="statuscafe-username"></div>
-                    <div id="statuscafe-content"></div>
-                </div>
-                <script src="https://status.cafe/current-status.js?name=maryseph" defer>
-                </script>
-        </article>
-
-        <article id="updates">
-            <h3>Latest Updates</h3>
-            <div>
+    <aside id="updates">
+        <article>
+            <h2>Latest Updates</h2>
                 <ul>
                     <li><a href="/02 now/now.html">January 6th, 2025</a></li>
                 </ul>
-            </div>
         </article>
-    
-        <article id="stickers">
-            <h3>Stickers</h3>
-                <div id="bumper-stickers">
-                    <img src="/images/98_you.png">
-                    <img src="/images/view_on_electrnic_web.gif">
-                    <img src="/images/barcode_web.gif">
-                    <img src="/images/earth_flat_cats.png">
-                    <img src="/images/manatee.gif">
-                    <img src="/images/old_school.gif">
-                </div>
-                <div id="other-stickers">
-                    <img src="/images/nonbinary.png">
-                </div>
+    </aside>
+
+    <aside id="blog">
+            <article>
+            <h2>Latest Blog</h2>
+            
+                    <ul>
+                        <li><a href="./02 blog/posts/2025-01-30-socmed-cleanup.html">Social Media Cleanup</a></li>
+                    </ul>
+            
         </article>
+    </aside>
+        
+    <aside id="stickers">
+            <h2>Stickers</h2>
+            <section>
+                <!--Aromatic webclique-->
+                <div class="centered"><a href="http://aromatic.wings.nu/">aromatic</a> // mint
+                </div>
 
-        <!--Aromatic webclique-->
-        <div class="centered"><a href="http://aromatic.wings.nu/">aromatic</a> // mint
-        </div>
-        
-        <!--a11ywebring-->
-        <nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
-            <p class="centered"><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a> &#124;
-                <a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a> &#124;
-                <a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
-            </p>
-        </nav>
-        
-        <!--Webmaster Webring-->
-        <div class="centered">
-            <a href="https://webmasterwebring.netlify.app?maryseph-previous">&larr;</a> <a
-                href="https://webmasterwebring.netlify.app">Webmaster Webring</a> <a
-                href="https://webmasterwebring.netlify.app?maryseph-random"></a> <a
-                href="https://webmasterwebring.netlify.app?maryseph-next">&rarr;</a>
-        </div>
-        
-        
-        <!--Journalring-->
-        <journal-ring icon="blue"></journal-ring>
-        <script async src="https://cdn.jsdelivr.net/gh/js044/nenrikido@main/static/js/misc/journalring.js"></script>
+                <!--a11ywebring-->
+                <nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
+                    <p class="centered">
+                        <a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev">&larr;</a>
+                        <a rel="external" href="https://a11y-webring.club/">a11y-webring.club</a>
+                        <a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next">&rarr;</a>
+                    </p>
+                </nav>
+            </section>
 
-        <h3>Links</h3>
-        <div class="outlink-imgs">
-            <!-- <a href="https://maryswritinggarden.wordpress.com/"><img src="/images/iconmonstr-wordpress-3.svg" alt="Wordpress"></a> -->
-            <a href="https://github.com/MarySeph" rel="me"><img src="/images/iconmonstr-github-3.svg" alt="Github"></a>
-            <!-- <a href="https://www.linkedin.com/in/mariajoseruizpiza/" alt="Linkedin"><img src="/images/iconmonstr-linkedin-3.svg"></a> -->
-            <a href="https://maryseph.github.io/MarySeph-Linktree/"><img src="/images/iconmonstr-link-1.svg" alt="Linktree"></a>
-        </div>
-        
+            <section>
+                <a href="https://rainy.gay/"><img src="images/nonbinary.png" alt="nonbinary" width="125px"></a>
+            </section>
+
     </aside>
 
 <!--Back to Top-->
